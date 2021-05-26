@@ -2,7 +2,7 @@ names,nationalities,dial/nego,quality,assigned,status,reviewer
 andres-santiago,colombiano-colombiano,dial,G,jijosjimal,,
 andres-santiago,colombiano-colombiano,nego,R,Lanna-27,,
 cesar-kehui,chino-colombiano,dial,B,,,
-cesar-kehui,chino-colombiano,nego,R,fore1806,,
+cesar-kehui,chino-colombiano,nego,R,fore1806,in revision,Sonia
 chang-katerin,chino-colombiano,dial,B,,,
 chang-katerin,chino-colombiano,nego,R,Ivanna197,,
 chang-zhang,chino-chino,dial,G,JulianaCorrea,2nd revision,Juan
@@ -39,4 +39,4 @@ zhang-yuly,chino-colombiano,nego,G,Jbarreraro,,
 zhang-zhaolin,chino-chino,dial,R,,,
 zhang-zhaolin,chino-chino,nego,G,JCP20,,
 zhaolin-changxiaorao,chino-chino,dial,R,,,
-zhaolin-changxiaorao,chino-chino,nego,B,,,
+zhaolin-changxiaorao,chino-chino,nego,B,ssmoreno,in revision,Juan
