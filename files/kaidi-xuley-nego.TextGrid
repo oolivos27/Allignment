@@ -42,7 +42,7 @@ item []:
             text = "" 
         intervals [8]:
             xmin = 34.47696787925008 
-            xmax = 38.76026405738911 
+            xmax = 38.601 
             text = "" 
         intervals [9]:
             xmin = 38.601 
@@ -53,7 +53,7 @@ item []:
             xmax = 45.423 
             text = "" 
         intervals [11]:
-            xmin = 47.601 
+            xmin = 45.423 
             xmax = 48.066143607095114 
             text = "" 
         intervals [12]:
