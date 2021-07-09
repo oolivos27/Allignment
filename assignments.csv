@@ -2,9 +2,9 @@ names,nationalities,dial/nego,quality,assigned,status,reviewer
 andres-santiago,colombiano-colombiano,dial,G,jijosjimal,fixing,Marisela1
 andres-santiago,colombiano-colombiano,nego,R,Lanna-27,final revision,Sonia1
 cesar-kehui,chino-colombiano,dial,B,,,
-cesar-kehui,chino-colombiano,nego,R,fore1806,in revision,Marisela2
+cesar-kehui,chino-colombiano,nego,R,fore1806,fixing,Marisela2
 chang-katerin,chino-colombiano,dial,B,,,
-chang-katerin,chino-colombiano,nego,R,Ivanna197,in revision,Marisela3
+chang-katerin,chino-colombiano,nego,R,Ivanna197,fixing,Marisela3
 chang-zhang,chino-chino,dial,G,JulianaCorrea,accepted,Juan1
 claudia-edwin,colombiano-colombiano,dial,B,,,
 claudia-edwin,colombiano-colombiano,nego,G,cajimn,fixing,Sandra1
@@ -25,7 +25,7 @@ liyue-carolina,chino-colombiano,nego,G,joviedog,fixing,Sandra3
 miguel-david,colombiano-colombiano,dial,G,,,
 miguel-david,colombiano-colombiano,nego,G,jyarac ,,
 nelly-jorge,colombiano-colombiano,dial,G,anfonsecag,2nd revision,Sonia3
-nelly-jorge,colombiano-colombiano,nego,R,ssanchezro2000,in revision,Marisela5
+nelly-jorge,colombiano-colombiano,nego,R,ssanchezro2000,fixing,Marisela5
 pilar-liyue,chino-colombiano,dial,G,Rafaelo13,fixing,Juan5
 pilar-liyue,chino-colombiano,nego,G,IJuggernaut,fixing,Sandra4
 sergio-martha,colombiano-colombiano,dial,G,SantiagoMirandaPointPy,2nd revision,Sonia4
@@ -34,7 +34,7 @@ xuley-diego,chino-colombiano,dial,R,U-dot,fixing,Sandra5
 xuley-diego,chino-colombiano,nego,B,,,
 xuley-qianhe,chino-chino,dial,G,NickGalindo,accepted,David3
 xuley-qianhe,chino-chino,nego,B,AlejandroMahecha,accepted,Juan6
-zhang-yuly,chino-colombiano,dial,G,danvargasgo,in revision,Marisela6
+zhang-yuly,chino-colombiano,dial,G,danvargasgo,fixing,Marisela6
 zhang-yuly,chino-colombiano,nego,G,Jbarreraro,in revision,Sonia6
 zhang-zhaolin,chino-chino,dial,R,,,
 zhang-zhaolin,chino-chino,nego,G,JCP20,in revision,David4
