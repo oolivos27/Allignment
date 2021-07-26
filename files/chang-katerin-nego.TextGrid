@@ -11,317 +11,409 @@ item []:
         name = "Ch1" 
         xmin = 0 
         xmax = 434.92 
-        intervals: size = 76 
+        intervals: size = 99 
         intervals [1]:
             xmin = 0 
-            xmax = 3.721547338481951 
-            text = "I i do i do not" 
+            xmax = 0.9761873684210527 
+            text = "I " 
         intervals [2]:
+            xmin = 0.9761873684210527 
+            xmax = 1.9394715789473687 
+            text = "" 
+        intervals [3]:
+            xmin = 1.9394715789473687 
+            xmax = 3.721547338481951 
+            text = "i do i do not" 
+        intervals [4]:
             xmin = 3.721547338481951 
             xmax = 8.10449046111679 
-            text = "agree with some social networks because" 
-        intervals [3]:
-            xmin = 8.10449046111679 
-            xmax = 9.597580975420966 
-            text = "i think" 
-        intervals [4]:
-            xmin = 9.597580975420966 
-            xmax = 10.801686228892075 
-            text = "ummm" 
+            text = "agree with some social networks because " 
         intervals [5]:
-            xmin = 10.801686228892075 
+            xmin = 8.10449046111679 
+            xmax = 9.006344438950675 
+            text = "i think" 
+        intervals [6]:
+            xmin = 9.006344438950675 
+            xmax = 9.606424375113592 
+            text = "" 
+        intervals [7]:
+            xmin = 9.606424375113592 
+            xmax = 10.806584247439396 
+            text = "ummm" 
+        intervals [8]:
+            xmin = 10.806584247439396 
             xmax = 12.005791482363184 
             text = "they" 
-        intervals [6]:
+        intervals [9]:
             xmin = 12.005791482363184 
+            xmax = 13.113568421052632 
+            text = "" 
+        intervals [10]:
+            xmin = 13.113568421052632 
             xmax = 15.04013672111038 
             text = "ehhmm" 
-        intervals [7]:
+        intervals [11]:
             xmin = 15.04013672111038 
             xmax = 18.989601952495622 
             text = "they asloit aislate from other people" 
-        intervals [8]:
+        intervals [12]:
             xmin = 18.989601952495622 
             xmax = 22.50558929263126 
-            text = "from family and from persons you care" 
-        intervals [9]:
+            text = "from family and from persons you " 
+        intervals [13]:
             xmin = 22.50558929263126 
-            xmax = 24.265519971761265 
+            xmax = 23.836891432691356 
             text = "care" 
-        intervals [10]:
-            xmin = 24.265519971761265 
-            xmax = 78.6045137352312 
+        intervals [14]:
+            xmin = 23.836891432691356 
+            xmax = 79.79783336561226 
             text = "" 
-        intervals [11]:
-            xmin = 78.6045137352312 
+        intervals [15]:
+            xmin = 79.79783336561226 
             xmax = 81.39059915465054 
             text = "i think that's a good point" 
-        intervals [12]:
+        intervals [16]:
             xmin = 81.39059915465054 
             xmax = 83.96237031103762 
             text = "but also is not because maybe" 
-        intervals [13]:
+        intervals [17]:
             xmin = 83.96237031103762 
             xmax = 84.7767645105602 
             text = "ehhhmmm" 
-        intervals [14]:
+        intervals [18]:
             xmin = 84.7767645105602 
             xmax = 87.64857563519244 
             text = "when youre using the social network" 
-        intervals [15]:
+        intervals [19]:
             xmin = 87.64857563519244 
             xmax = 88.74934181582734 
             text = "ehhhmm" 
-        intervals [16]:
+        intervals [20]:
             xmin = 88.74934181582734 
             xmax = 92.13550717173699 
             text = "students or whoevere is using the " 
-        intervals [17]:
+        intervals [21]:
             xmin = 92.13550717173699 
             xmax = 96.50751813759503 
             text = "social network can get usually distracted" 
-        intervals [18]:
+        intervals [22]:
             xmin = 96.50751813759503 
             xmax = 99.50791782004663 
             text = "by another social network like" 
-        intervals [19]:
+        intervals [23]:
             xmin = 99.50791782004663 
             xmax = 103.63959239904182 
             text = "i dont know social social reds" 
-        intervals [20]:
+        intervals [24]:
             xmin = 103.63959239904182 
+            xmax = 105.55762953850183 
+            text = "like facebook or " 
+        intervals [25]:
+            xmin = 105.55762953850183 
+            xmax = 106.50061229532928 
+            text = "" 
+        intervals [26]:
+            xmin = 106.50061229532928 
             xmax = 108.52595759617728 
-            text = "like facebook or other things" 
-        intervals [21]:
+            text = "other things" 
+        intervals [27]:
             xmin = 108.52595759617728 
             xmax = 109.98329458479662 
             text = "or Whatsapp or i dont know " 
-        intervals [22]:
+        intervals [28]:
             xmin = 109.98329458479662 
-            xmax = 112.85510570942887 
+            xmax = 111.51556604754792 
             text = "talking with other people" 
-        intervals [23]:
-            xmin = 112.85510570942887 
+        intervals [29]:
+            xmin = 111.51556604754792 
+            xmax = 113.2729430034536 
+            text = ":)" 
+        intervals [30]:
+            xmin = 113.2729430034536 
             xmax = 172.85407023645084 
             text = "" 
-        intervals [24]:
+        intervals [31]:
             xmin = 172.85407023645084 
             xmax = 173.19697305730247 
             text = "mmm" 
-        intervals [25]:
+        intervals [32]:
             xmin = 173.19697305730247 
-            xmax = 175.34011568762503 
+            xmax = 174.08486012888088 
             text = "ok that helps" 
-        intervals [26]:
-            xmin = 175.34011568762503 
+        intervals [33]:
+            xmin = 174.08486012888088 
             xmax = 176.88317838145727 
             text = "" 
-        intervals [27]:
+        intervals [34]:
             xmin = 176.88317838145727 
             xmax = 178.469103927896 
             text = "mmm" 
-        intervals [28]:
+        intervals [35]:
             xmin = 178.469103927896 
+            xmax = 180.00644400672007 
+            text = "i think " 
+        intervals [36]:
+            xmin = 180.00644400672007 
+            xmax = 181.5495067005523 
+            text = "" 
+        intervals [37]:
+            xmin = 181.5495067005523 
+            xmax = 182.74966657353295 
+            text = "social networks " 
+        intervals [38]:
+            xmin = 182.74966657353295 
+            xmax = 184.50704353039745 
+            text = "" 
+        intervals [39]:
+            xmin = 184.50704353039745 
             xmax = 185.69718381175304 
-            text = "i think social networks makes you" 
-        intervals [29]:
+            text = "makes you" 
+        intervals [40]:
             xmin = 185.69718381175304 
-            xmax = 187.6688750316498 
+            xmax = 187.12863225789388 
             text = "ahhmmm" 
-        intervals [30]:
-            xmin = 187.6688750316498 
+        intervals [41]:
+            xmin = 187.12863225789388 
             xmax = 191.39794320841108 
             text = "" 
-        intervals [31]:
+        intervals [42]:
             xmin = 191.39794320841108 
             xmax = 194.05544007001106 
             text = "makes you not it doesnt" 
-        intervals [32]:
+        intervals [43]:
             xmin = 194.05544007001106 
             xmax = 197.83342083063516 
             text = "permit you be social with other" 
-        intervals [33]:
+        intervals [44]:
             xmin = 197.83342083063516 
             xmax = 199.8051120505319 
             text = "people that you dont know maybe" 
-        intervals [34]:
+        intervals [45]:
             xmin = 199.8051120505319 
+            xmax = 202.59802543354385 
+            text = "because you are so " 
+        intervals [46]:
+            xmin = 202.59802543354385 
+            xmax = 203.71245960070357 
+            text = "mmmmm" 
+        intervals [47]:
+            xmin = 203.71245960070357 
             xmax = 204.90579151069963 
-            text = "because you are so concentrate" 
-        intervals [35]:
+            text = "concentrate" 
+        intervals [48]:
             xmin = 204.90579151069963 
             xmax = 207.09179699362866 
             text = "ummm" 
-        intervals [36]:
+        intervals [49]:
             xmin = 207.09179699362866 
+            xmax = 208.3845105322577 
+            text = "or " 
+        intervals [50]:
+            xmin = 208.3845105322577 
+            xmax = 209.3703561416682 
+            text = "" 
+        intervals [51]:
+            xmin = 209.3703561416682 
             xmax = 211.54615785830734 
-            text = "or paying more attention in things" 
-        intervals [37]:
+            text = "paying more attention in things" 
+        intervals [52]:
             xmin = 211.54615785830734 
             xmax = 215.18950032985572 
             text = "that that maybe doesnt have that" 
-        intervals [38]:
+        intervals [53]:
             xmin = 215.18950032985572 
-            xmax = 218.36135142273312 
+            xmax = 216.65021312486715 
             text = "much importance" 
-        intervals [39]:
-            xmin = 218.36135142273312 
+        intervals [54]:
+            xmin = 216.65021312486715 
             xmax = 303.87372622741725 
             text = "" 
-        intervals [40]:
+        intervals [55]:
             xmin = 303.87372622741725 
             xmax = 304.68812042649546 
             text = "ok" 
-        intervals [41]:
+        intervals [56]:
             xmin = 304.68812042649546 
             xmax = 306.31690882465193 
             text = "ehmmm" 
-        intervals [42]:
+        intervals [57]:
             xmin = 306.31690882465193 
             xmax = 307.9028343702254 
             text = "another point" 
-        intervals [43]:
+        intervals [58]:
             xmin = 307.9028343702254 
             xmax = 309.48875991579877 
             text = "ehhhmmm" 
-        intervals [44]:
+        intervals [59]:
             xmin = 309.48875991579877 
             xmax = 311.631902544952 
             text = "" 
-        intervals [45]:
+        intervals [60]:
             xmin = 311.631902544952 
+            xmax = 314.260058693026 
+            text = "i think it it doesnt " 
+        intervals [61]:
+            xmin = 314.260058693026 
+            xmax = 315.37449286018574 
+            text = "" 
+        intervals [62]:
+            xmin = 315.37449286018574 
             xmax = 315.7895992455093 
-            text = "i think it it doesnt helps" 
-        intervals [46]:
+            text = "helps" 
+        intervals [63]:
             xmin = 315.7895992455093 
             xmax = 319.62533046463676 
             text = "maybe for addicted people of social" 
-        intervals [47]:
+        intervals [64]:
             xmin = 319.62533046463676 
-            xmax = 323.054358671282 
+            xmax = 322.78976635705607 
             text = "networks that can bring" 
-        intervals [48]:
-            xmin = 323.054358671282 
+        intervals [65]:
+            xmin = 322.78976635705607 
             xmax = 323.95447857552637 
             text = "" 
-        intervals [49]:
+        intervals [66]:
             xmin = 323.95447857552637 
-            xmax = 326.18334690984574 
+            xmax = 325.15945608398874 
             text = "ehhmm" 
-        intervals [50]:
-            xmin = 326.18334690984574 
+        intervals [67]:
+            xmin = 325.15945608398874 
             xmax = 327.28685650599164 
             text = "" 
-        intervals [51]:
+        intervals [68]:
             xmin = 327.28685650599164 
             xmax = 330.24439333422316 
             text = "problems in articulations or in your " 
-        intervals [52]:
+        intervals [69]:
             xmin = 330.24439333422316 
             xmax = 333.3305187202038 
             text = "eyes or your vision or or " 
-        intervals [53]:
+        intervals [70]:
             xmin = 333.3305187202038 
             xmax = 335.8594270226046 
             text = "because people spend too much time" 
-        intervals [54]:
+        intervals [71]:
             xmin = 335.8594270226046 
             xmax = 339.8571843381757 
             text = "in social networks so " 
-        intervals [55]:
+        intervals [72]:
             xmin = 339.8571843381757 
             xmax = 343.0718982819056 
             text = "so for whatever youre doing maybe" 
-        intervals [56]:
+        intervals [73]:
             xmin = 343.0718982819056 
             xmax = 346.5009264885508 
             text = "its fine if you do it " 
-        intervals [57]:
+        intervals [74]:
             xmin = 346.5009264885508 
             xmax = 349.8013661374468 
             text = "in an appropiate time or in " 
-        intervals [58]:
+        intervals [75]:
             xmin = 349.8013661374468 
             xmax = 351.08725171493876 
             text = "ammm" 
-        intervals [59]:
+        intervals [76]:
             xmin = 351.08725171493876 
             xmax = 352.41600014501375 
             text = "" 
-        intervals [60]:
+        intervals [77]:
             xmin = 352.41600014501375 
             xmax = 354.94330998758034 
             text = "in appropiate time of hours " 
-        intervals [61]:
+        intervals [78]:
             xmin = 354.94330998758034 
-            xmax = 357.4722182899812 
+            xmax = 356.30299736458994 
             text = "or time" 
-        intervals [62]:
-            xmin = 357.4722182899812 
+        intervals [79]:
+            xmin = 356.30299736458994 
             xmax = 395.4290421434132 
             text = "" 
-        intervals [63]:
+        intervals [80]:
             xmin = 395.4290421434132 
             xmax = 396.8435162680469 
             text = "mmmm" 
-        intervals [64]:
+        intervals [81]:
             xmin = 396.8435162680469 
             xmax = 398.3008532449423 
             text = "" 
-        intervals [65]:
+        intervals [82]:
             xmin = 398.3008532449423 
-            xmax = 401.6012928690877 
-            text = "another point maybe " 
-        intervals [66]:
-            xmin = 401.6012928690877 
+            xmax = 399.3840702735668 
+            text = "another point " 
+        intervals [83]:
+            xmin = 399.3840702735668 
+            xmax = 400.49850444133455 
+            text = "" 
+        intervals [84]:
+            xmin = 400.49850444133455 
+            xmax = 401.69183633210207 
+            text = "maybe" 
+        intervals [85]:
+            xmin = 401.69183633210207 
             xmax = 402.372824209797 
             text = "ehhmm" 
-        intervals [67]:
+        intervals [86]:
             xmin = 402.372824209797 
-            xmax = 406.6162465836982 
+            xmax = 404.65620114416026 
             text = "i thinks its its good like" 
-        intervals [68]:
+        intervals [87]:
+            xmin = 404.65620114416026 
+            xmax = 406.6162465836982 
+            text = "" 
+        intervals [88]:
             xmin = 406.6162465836982 
             xmax = 409.35707157369455 
             text = "searching for more information in" 
-        intervals [69]:
+        intervals [89]:
             xmin = 409.35707157369455 
             xmax = 411.92884270939226 
             text = "the class but maybe if you" 
-        intervals [70]:
+        intervals [90]:
             xmin = 411.92884270939226 
+            xmax = 413.51502232737175 
+            text = "close another networks " 
+        intervals [91]:
+            xmin = 413.51502232737175 
+            xmax = 414.2008279687008 
+            text = "" 
+        intervals [92]:
+            xmin = 414.2008279687008 
             xmax = 415.22928233353764 
-            text = "close another networks so you cant" 
-        intervals [71]:
+            text = "so you cant" 
+        intervals [93]:
             xmin = 415.22928233353764 
             xmax = 417.843916321497 
             text = "distract yourself with another things that" 
-        intervals [72]:
+        intervals [94]:
             xmin = 417.843916321497 
             xmax = 423.24303733663015 
             text = "is not the classmate or maybe" 
-        intervals [73]:
+        intervals [95]:
             xmin = 423.24303733663015 
             xmax = 426.41488840399063 
             text = "a notice maybe you you can " 
-        intervals [74]:
+        intervals [96]:
             xmin = 426.41488840399063 
             xmax = 429.02952239194997 
             text = "receive a notice of someone that" 
-        intervals [75]:
+        intervals [97]:
             xmin = 429.02952239194997 
             xmax = 431.81560778895584 
             text = "might not be not be fine" 
-        intervals [76]:
+        intervals [98]:
             xmin = 431.81560778895584 
+            xmax = 434.3162010282018 
+            text = "for for while you studying in " 
+        intervals [99]:
+            xmin = 434.3162010282018 
             xmax = 434.92 
-            text = "for for while you studying in the moment" 
+            text = "the moment" 
     item [2]:
         class = "IntervalTier" 
         name = "Ch2" 
         xmin = 0 
         xmax = 449.952 
-        intervals: size = 113 
+        intervals: size = 155 
         intervals [1]:
             xmin = 0 
             xmax = 16.629555655692247 
@@ -340,437 +432,605 @@ item []:
             text = "uhumm" 
         intervals [5]:
             xmin = 25.506253738909493 
-            xmax = 28.781420028350908 
-            text = "in this place talk about use" 
+            xmax = 26.556178144522136 
+            text = "in this place " 
         intervals [6]:
+            xmin = 26.556178144522136 
+            xmax = 27.45629804876651 
+            text = "" 
+        intervals [7]:
+            xmin = 27.45629804876651 
+            xmax = 28.781420028350908 
+            text = "talk about use" 
+        intervals [8]:
             xmin = 28.781420028350908 
             xmax = 31.97620699282149 
             text = "of networks in the classroom yes?" 
-        intervals [7]:
+        intervals [9]:
             xmin = 31.97620699282149 
             xmax = 32.60234172462646 
             text = "ehhmmm" 
-        intervals [8]:
+        intervals [10]:
             xmin = 32.60234172462646 
             xmax = 33.806446978097576 
             text = "as a teacher i think is" 
-        intervals [9]:
+        intervals [11]:
             xmin = 33.806446978097576 
             xmax = 35.829343803929035 
             text = "very useful the use of networks" 
-        intervals [10]:
-            xmin = 35.829343803929035 
-            xmax = 39.20083851364814 
-            text = "in the classroom because i teach" 
-        intervals [11]:
-            xmin = 39.20083851364814 
-            xmax = 41.91467788359202 
-            text = "the Chinese to some" 
         intervals [12]:
+            xmin = 35.829343803929035 
+            xmax = 36.97185132220706 
+            text = "in the classroom " 
+        intervals [13]:
+            xmin = 36.97185132220706 
+            xmax = 37.582211173111816 
+            text = "because" 
+        intervals [14]:
+            xmin = 37.582211173111816 
+            xmax = 38.34346260486515 
+            text = "" 
+        intervals [15]:
+            xmin = 38.34346260486515 
+            xmax = 39.93966806518041 
+            text = " i teach the Chinese" 
+        intervals [16]:
+            xmin = 39.93966806518041 
+            xmax = 40.539748001343334 
+            text = "" 
+        intervals [17]:
+            xmin = 40.539748001343334 
+            xmax = 41.91467788359202 
+            text = "to some" 
+        intervals [18]:
             xmin = 41.91467788359202 
             xmax = 45.900923175992006 
             text = "to some students spanish and colombian" 
-        intervals [13]:
+        intervals [19]:
             xmin = 45.900923175992006 
             xmax = 47.18680875418555 
             text = "ehhhmm" 
-        intervals [14]:
-            xmin = 47.18680875418555 
-            xmax = 51.00160263615973 
-            text = "ellos, they dont know" 
-        intervals [15]:
-            xmin = 51.00160263615973 
-            xmax = 52.322802294480205 
-            text = "they dont know" 
-        intervals [16]:
-            xmin = 52.322802294480205 
-            xmax = 53.78013928309955 
-            text = "ehhmm" 
-        intervals [17]:
-            xmin = 53.78013928309955 
-            xmax = 56.7376761129447 
-            text = "manage the chinese" 
-        intervals [18]:
-            xmin = 56.7376761129447 
-            xmax = 58.37524538796413 
-            text = "if if" 
-        intervals [19]:
-            xmin = 58.37524538796413 
-            xmax = 59.832582376583474 
-            text = "ummm" 
         intervals [20]:
-            xmin = 59.832582376583474 
-            xmax = 63.43306199552539 
-            text = "if we use the network we can" 
+            xmin = 47.18680875418555 
+            xmax = 48.053989174481686 
+            text = "" 
         intervals [21]:
+            xmin = 48.053989174481686 
+            xmax = 48.96910917448169 
+            text = "ellos" 
+        intervals [22]:
+            xmin = 48.96910917448169 
+            xmax = 49.78790075342905 
+            text = "" 
+        intervals [23]:
+            xmin = 49.78790075342905 
+            xmax = 51.762633385008 
+            text = "they dont know,they dont know" 
+        intervals [24]:
+            xmin = 51.762633385008 
+            xmax = 52.34060391132379 
+            text = "" 
+        intervals [25]:
+            xmin = 52.34060391132379 
+            xmax = 53.063067069218526 
+            text = "ehhmm" 
+        intervals [26]:
+            xmin = 53.063067069218526 
+            xmax = 54.170843911323786 
+            text = "" 
+        intervals [27]:
+            xmin = 54.170843911323786 
+            xmax = 56.43456180606063 
+            text = "manage the chinese" 
+        intervals [28]:
+            xmin = 56.43456180606063 
+            xmax = 57.686831279744844 
+            text = "" 
+        intervals [29]:
+            xmin = 57.686831279744844 
+            xmax = 58.50562285869221 
+            text = "if if" 
+        intervals [30]:
+            xmin = 58.50562285869221 
+            xmax = 59.526845118500205 
+            text = "ummm" 
+        intervals [31]:
+            xmin = 59.526845118500205 
+            xmax = 60.44196511850021 
+            text = "" 
+        intervals [32]:
+            xmin = 60.44196511850021 
+            xmax = 62.32036932902652 
+            text = "if we use the network " 
+        intervals [33]:
+            xmin = 62.32036932902652 
+            xmax = 62.95351053000032 
+            text = "" 
+        intervals [34]:
+            xmin = 62.95351053000032 
+            xmax = 63.43306199552539 
+            text = "we can" 
+        intervals [35]:
             xmin = 63.43306199552539 
             xmax = 65.87624459409312 
             text = "have them to know more about " 
-        intervals [22]:
+        intervals [36]:
             xmin = 65.87624459409312 
             xmax = 69.00523283436408 
             text = "China of China what is happenning " 
-        intervals [23]:
+        intervals [37]:
             xmin = 69.00523283436408 
             xmax = 72.82002671633825 
             text = "in China an what is most" 
-        intervals [24]:
+        intervals [38]:
             xmin = 72.82002671633825 
-            xmax = 75.47552549496025 
+            xmax = 74.97267101844359 
             text = "most popular now in China" 
-        intervals [25]:
+        intervals [39]:
+            xmin = 74.97267101844359 
+            xmax = 75.47552549496025 
+            text = "" 
+        intervals [40]:
             xmin = 75.47552549496025 
             xmax = 77.91870809352798 
             text = "they can now more culture culture" 
-        intervals [26]:
+        intervals [41]:
             xmin = 77.91870809352798 
             xmax = 78.6045137352312 
             text = "in China" 
-        intervals [27]:
+        intervals [42]:
             xmin = 78.6045137352312 
             xmax = 114.12883460525599 
             text = "" 
-        intervals [28]:
+        intervals [43]:
             xmin = 114.12883460525599 
             xmax = 115.92907441472695 
             text = "ehhmmm" 
-        intervals [29]:
+        intervals [44]:
             xmin = 115.92907441472695 
             xmax = 118.0422316730062 
             text = "thats no in our in our " 
-        intervals [30]:
+        intervals [45]:
             xmin = 118.0422316730062 
-            xmax = 120.27110000854175 
+            xmax = 119.07776809688517 
             text = "in our age of " 
-        intervals [31]:
+        intervals [46]:
+            xmin = 119.07776809688517 
+            xmax = 120.27110000854175 
+            text = "mmmmm" 
+        intervals [47]:
             xmin = 120.27110000854175 
-            xmax = 121.98561411279981 
+            xmax = 121.52095069411989 
             text = "ehmmm" 
-        intervals [32]:
-            xmin = 121.98561411279981 
-            xmax = 125.07024045924106 
+        intervals [48]:
+            xmin = 121.52095069411989 
+            xmax = 122.5067963035304 
+            text = "" 
+        intervals [49]:
+            xmin = 122.5067963035304 
+            xmax = 124.69475469848747 
             text = "the technology of the of this" 
-        intervals [33]:
-            xmin = 125.07024045924106 
+        intervals [50]:
+            xmin = 124.69475469848747 
             xmax = 125.92749751137009 
             text = "ehhmm" 
-        intervals [34]:
+        intervals [51]:
             xmin = 125.92749751137009 
             xmax = 132.01402258148624 
             text = "is deve develop developing much faster" 
-        intervals [35]:
+        intervals [52]:
             xmin = 132.01402258148624 
             xmax = 136.94325063122818 
             text = "much faster and maybe to know" 
-        intervals [36]:
+        intervals [53]:
             xmin = 136.94325063122818 
             xmax = 137.6290562729314 
             text = "ehhmmm" 
-        intervals [37]:
+        intervals [54]:
             xmin = 137.6290562729314 
-            xmax = 141.91534153357657 
+            xmax = 140.125381628391 
             text = "more China more culture of" 
-        intervals [38]:
+        intervals [55]:
+            xmin = 140.125381628391 
+            xmax = 141.19695294296767 
+            text = "" 
+        intervals [56]:
+            xmin = 141.19695294296767 
+            xmax = 141.91534153357657 
+            text = "of" 
+        intervals [57]:
             xmin = 141.91534153357657 
             xmax = 143.758444195654 
             text = "from different different countries of the " 
-        intervals [39]:
+        intervals [58]:
             xmin = 143.758444195654 
+            xmax = 144.38649914758415 
+            text = "world " 
+        intervals [59]:
+            xmin = 144.38649914758415 
+            xmax = 145.28661905182852 
+            text = "" 
+        intervals [60]:
+            xmin = 145.28661905182852 
             xmax = 147.60862829427748 
-            text = "world and we can grow and" 
-        intervals [40]:
+            text = "and we can grow and" 
+        intervals [61]:
             xmin = 147.60862829427748 
-            xmax = 149.36600525114198 
+            xmax = 148.7585101110568 
             text = "we can " 
-        intervals [41]:
-            xmin = 149.36600525114198 
+        intervals [62]:
+            xmin = 148.7585101110568 
             xmax = 149.75177092460007 
             text = "ehhhmm" 
-        intervals [42]:
+        intervals [63]:
             xmin = 149.75177092460007 
             xmax = 152.88075916487102 
             text = "we can get more technologies of " 
-        intervals [43]:
+        intervals [64]:
             xmin = 152.88075916487102 
             xmax = 155.62398173168395 
             text = "this country of this countries" 
-        intervals [44]:
+        intervals [65]:
             xmin = 155.62398173168395 
             xmax = 156.63967913232338 
             text = "if we " 
-        intervals [45]:
+        intervals [66]:
             xmin = 156.63967913232338 
             xmax = 157.75411330009112 
             text = "ehhmmm" 
-        intervals [46]:
+        intervals [67]:
             xmin = 157.75411330009112 
             xmax = 159.7258045199879 
             text = "this use of network we can " 
-        intervals [47]:
+        intervals [68]:
             xmin = 159.7258045199879 
-            xmax = 163.11196987589753 
-            text = "know which is happening and" 
-        intervals [48]:
-            xmin = 163.11196987589753 
-            xmax = 164.52644401191043 
-            text = "which is" 
-        intervals [49]:
-            xmin = 164.52644401191043 
-            xmax = 165.76946673749754 
+            xmax = 160.36789266603537 
+            text = "know " 
+        intervals [69]:
+            xmin = 160.36789266603537 
+            xmax = 161.28301266603538 
+            text = "" 
+        intervals [70]:
+            xmin = 161.28301266603538 
+            xmax = 162.87243161340376 
+            text = "which is happening and" 
+        intervals [71]:
+            xmin = 162.87243161340376 
+            xmax = 163.30590950814062 
+            text = "" 
+        intervals [72]:
+            xmin = 163.30590950814062 
+            xmax = 163.8838800344564 
+            text = " which is" 
+        intervals [73]:
+            xmin = 163.8838800344564 
+            xmax = 164.46185056077218 
+            text = "" 
+        intervals [74]:
+            xmin = 164.46185056077218 
+            xmax = 165.52146319235112 
             text = "mmm" 
-        intervals [50]:
-            xmin = 165.76946673749754 
-            xmax = 167.92484218670893 
+        intervals [75]:
+            xmin = 165.52146319235112 
+            xmax = 166.00310529761427 
+            text = "" 
+        intervals [76]:
+            xmin = 166.00310529761427 
+            xmax = 167.7905310138815 
             text = "which is a difference of the " 
-        intervals [51]:
-            xmin = 167.92484218670893 
-            xmax = 170.83951616394762 
+        intervals [77]:
+            xmin = 167.7905310138815 
+            xmax = 168.34774809776536 
+            text = "" 
+        intervals [78]:
+            xmin = 168.34774809776536 
+            xmax = 170.31943931766213 
             text = "the country and out the country" 
-        intervals [52]:
-            xmin = 170.83951616394762 
-            xmax = 172.8112073838444 
+        intervals [79]:
+            xmin = 170.31943931766213 
+            xmax = 170.83379354893952 
+            text = "" 
+        intervals [80]:
+            xmin = 170.83379354893952 
+            xmax = 172.29113053755887 
             text = "we can we can know this" 
-        intervals [53]:
-            xmin = 172.8112073838444 
+        intervals [81]:
+            xmin = 172.29113053755887 
             xmax = 182.35388130844981 
             text = "" 
-        intervals [54]:
+        intervals [82]:
             xmin = 182.35388130844981 
             xmax = 183.68262973924982 
             text = "mjm" 
-        intervals [55]:
+        intervals [83]:
             xmin = 183.68262973924982 
             xmax = 195.26164967424808 
             text = "" 
-        intervals [56]:
+        intervals [84]:
             xmin = 195.26164967424808 
             xmax = 196.03318102116418 
             text = "mjm" 
-        intervals [57]:
+        intervals [85]:
             xmin = 196.03318102116418 
             xmax = 221.70465392603634 
             text = "" 
-        intervals [58]:
+        intervals [86]:
             xmin = 221.70465392603634 
+            xmax = 224.0736226151073 
+            text = "the developing in " 
+        intervals [87]:
+            xmin = 224.0736226151073 
+            xmax = 225.05946822505567 
+            text = "" 
+        intervals [88]:
+            xmin = 225.05946822505567 
             xmax = 226.35614502574467 
-            text = "the developing in the invention of " 
-        intervals [59]:
+            text = "the invention of " 
+        intervals [89]:
             xmin = 226.35614502574467 
-            xmax = 230.34239031814462 
-            text = "the technology if i think is " 
-        intervals [60]:
-            xmin = 230.34239031814462 
+            xmax = 226.77398232931372 
+            text = "" 
+        intervals [90]:
+            xmin = 226.77398232931372 
+            xmax = 228.91712495963628 
+            text = "the technology if " 
+        intervals [91]:
+            xmin = 228.91712495963628 
+            xmax = 229.56006774873305 
+            text = "" 
+        intervals [92]:
+            xmin = 229.56006774873305 
             xmax = 231.75686445415752 
-            text = "can cause " 
-        intervals [61]:
+            text = "i think is can cause " 
+        intervals [93]:
             xmin = 231.75686445415752 
             xmax = 232.52839580107363 
             text = "eh ehmm" 
-        intervals [62]:
+        intervals [94]:
             xmin = 232.52839580107363 
             xmax = 235.38459830042473 
             text = "it has advan advantages and disadvantages" 
-        intervals [63]:
+        intervals [95]:
             xmin = 235.38459830042473 
             xmax = 239.18846760352736 
             text = "but the network advantages is more" 
-        intervals [64]:
+        intervals [96]:
             xmin = 239.18846760352736 
             xmax = 242.23173013858536 
             text = "than disadvantages because beacause" 
-        intervals [65]:
+        intervals [97]:
             xmin = 242.23173013858536 
             xmax = 243.717553233049 
             text = "mmm" 
-        intervals [66]:
+        intervals [98]:
             xmin = 243.717553233049 
             xmax = 247.91811278848118 
             text = "" 
-        intervals [67]:
+        intervals [99]:
             xmin = 247.91811278848118 
+            xmax = 250.24298674642688 
+            text = "all of the some people " 
+        intervals [100]:
+            xmin = 250.24298674642688 
+            xmax = 251.35742091419462 
+            text = "" 
+        intervals [101]:
+            xmin = 251.35742091419462 
             xmax = 251.94722093348756 
-            text = "all of the some people always" 
-        intervals [68]:
+            text = "always" 
+        intervals [102]:
             xmin = 251.94722093348756 
             xmax = 255.74712698009608 
             text = "uses networks and (no se entiende)but" 
-        intervals [69]:
+        intervals [103]:
             xmin = 255.74712698009608 
-            xmax = 257.67595534633404 
+            xmax = 257.01531745824616 
             text = "ehhhmmm" 
-        intervals [70]:
-            xmin = 257.67595534633404 
-            xmax = 259.48361035355043 
+        intervals [104]:
+            xmin = 257.01531745824616 
+            xmax = 260.4572231473254 
             text = "" 
-        intervals [71]:
-            xmin = 259.48361035355043 
-            xmax = 262.05538150853437 
+        intervals [105]:
+            xmin = 260.4572231473254 
+            xmax = 261.271617346848 
             text = "but if" 
-        intervals [72]:
-            xmin = 262.05538150853437 
+        intervals [106]:
+            xmin = 261.271617346848 
+            xmax = 261.8288344307319 
+            text = "" 
+        intervals [107]:
+            xmin = 261.8288344307319 
             xmax = 262.56973573953115 
             text = "ehhmm" 
-        intervals [73]:
+        intervals [108]:
             xmin = 262.56973573953115 
             xmax = 265.8946984712685 
             text = "for that not not and even Colombia " 
-        intervals [74]:
+        intervals [109]:
             xmin = 265.8946984712685 
-            xmax = 268.38074392108626 
-            text = "and if if my fam my family is " 
-        intervals [75]:
-            xmin = 268.38074392108626 
-            xmax = 273.6100119362202 
-            text = "my family is is in China" 
-        intervals [76]:
-            xmin = 273.6100119362202 
-            xmax = 276.52936996784297 
-            text = "they can live" 
-        intervals [77]:
-            xmin = 276.52936996784297 
+            xmax = 267.1377212028218 
+            text = "and if if " 
+        intervals [110]:
+            xmin = 267.1377212028218 
+            xmax = 267.7806639919186 
+            text = "" 
+        intervals [111]:
+            xmin = 267.7806639919186 
+            xmax = 270.1809837378798 
+            text = "my fam my family is is " 
+        intervals [112]:
+            xmin = 270.1809837378798 
+            xmax = 272.5384406312346 
+            text = "" 
+        intervals [113]:
+            xmin = 272.5384406312346 
+            xmax = 275.1530746402281 
+            text = "in China they can live" 
+        intervals [114]:
+            xmin = 275.1530746402281 
+            xmax = 276.3103716606023 
+            text = "" 
+        intervals [115]:
+            xmin = 276.3103716606023 
             xmax = 277.858118397918 
             text = "ammm" 
-        intervals [78]:
+        intervals [116]:
             xmin = 277.858118397918 
-            xmax = 279.14400397540993 
+            xmax = 278.766431730423 
             text = "very far" 
-        intervals [79]:
-            xmin = 279.14400397540993 
+        intervals [117]:
+            xmin = 278.766431730423 
             xmax = 279.4011810909083 
             text = "amm" 
-        intervals [80]:
+        intervals [118]:
             xmin = 279.4011810909083 
             xmax = 281.80150083556 
             text = "very far away and i can" 
-        intervals [81]:
+        intervals [119]:
             xmin = 281.80150083556 
             xmax = 284.80190051637453 
             text = "use the network an internet to" 
-        intervals [82]:
+        intervals [120]:
             xmin = 284.80190051637453 
             xmax = 288.1880658704367 
             text = "communicate with with some and" 
-        intervals [83]:
+        intervals [121]:
             xmin = 288.1880658704367 
             xmax = 289.3882257427625 
             text = "" 
-        intervals [84]:
+        intervals [122]:
             xmin = 289.3882257427625 
-            xmax = 293.8533776101292 
+            xmax = 293.24243054364524 
             text = "i think ""este es"" is people" 
-        intervals [85]:
-            xmin = 293.8533776101292 
-            xmax = 294.410594693709 
-            text = "" 
-        intervals [86]:
-            xmin = 294.410594693709 
-            xmax = 295.9965202392824 
+        intervals [123]:
+            xmin = 293.24243054364524 
+            xmax = 294.2711390062001 
+            text = ":)" 
+        intervals [124]:
+            xmin = 294.2711390062001 
+            xmax = 295.1330801047387 
             text = "ehhmm" 
-        intervals [87]:
+        intervals [125]:
+            xmin = 295.1330801047387 
+            xmax = 295.9965202392824 
+            text = "" 
+        intervals [126]:
             xmin = 295.9965202392824 
             xmax = 299.12550847784615 
             text = "the distance between people much nearer" 
-        intervals [88]:
+        intervals [127]:
             xmin = 299.12550847784615 
-            xmax = 303.2832051784035 
+            xmax = 302.50549075304826 
             text = "que that antes than before" 
-        intervals [89]:
-            xmin = 303.2832051784035 
-            xmax = 356.014881302157 
-            text = "" 
-        intervals [90]:
-            xmin = 356.014881302157 
+        intervals [128]:
+            xmin = 302.50549075304826 
+            xmax = 303.5770620682095 
+            text = ":)" 
+        intervals [129]:
+            xmin = 303.5770620682095 
             xmax = 357.4722182899812 
-            text = "mjm" 
-        intervals [91]:
+            text = "" 
+        intervals [130]:
             xmin = 357.4722182899812 
             xmax = 359.18673239330377 
             text = "i think if teacher use the" 
-        intervals [92]:
+        intervals [131]:
             xmin = 359.18673239330377 
             xmax = 361.4584635802062 
             text = "network in the classroom is must" 
-        intervals [93]:
+        intervals [132]:
             xmin = 361.4584635802062 
+            xmax = 364.1753857234901 
+            text = "useful for the teacher to " 
+        intervals [133]:
+            xmin = 364.1753857234901 
+            xmax = 364.6468771019038 
+            text = "" 
+        intervals [134]:
+            xmin = 364.6468771019038 
             xmax = 365.0427891166325 
-            text = "useful for the teacher to talk" 
-        intervals [94]:
+            text = "talk" 
+        intervals [135]:
             xmin = 365.0427891166325 
             xmax = 368.94330870169136 
             text = "the students in many many things " 
-        intervals [95]:
+        intervals [136]:
             xmin = 368.94330870169136 
             xmax = 372.07169751781726 
             text = "dont have in a book if" 
-        intervals [96]:
+        intervals [137]:
             xmin = 372.07169751781726 
             xmax = 373.0146802746447 
             text = "" 
-        intervals [97]:
+        intervals [138]:
             xmin = 373.0146802746447 
             xmax = 374.1291144418044 
             text = "ehhmm" 
-        intervals [98]:
+        intervals [139]:
             xmin = 374.1291144418044 
             xmax = 376.40084562870686 
             text = "many things in the network we" 
-        intervals [99]:
+        intervals [140]:
             xmin = 376.40084562870686 
             xmax = 378.67257681560926 
             text = "dont have in a book and " 
-        intervals [100]:
+        intervals [141]:
             xmin = 378.67257681560926 
             xmax = 381.414001113612 
             text = "the teacher can talk the students" 
-        intervals [101]:
+        intervals [142]:
             xmin = 381.414001113612 
             xmax = 383.2142409221007 
             text = "and tell tell the students" 
-        intervals [102]:
+        intervals [143]:
             xmin = 383.2142409221007 
             xmax = 384.714440762508 
             text = "ehhhmm" 
-        intervals [103]:
+        intervals [144]:
             xmin = 384.714440762508 
             xmax = 385.78601207708465 
             text = "" 
-        intervals [104]:
+        intervals [145]:
             xmin = 385.78601207708465 
             xmax = 388.2720575269024 
             text = "and and uses and another " 
-        intervals [105]:
+        intervals [146]:
             xmin = 388.2720575269024 
             xmax = 389.6436688095605 
             text = "" 
-        intervals [106]:
+        intervals [147]:
             xmin = 389.6436688095605 
             xmax = 390.7581029767202 
             text = "at the different things in" 
-        intervals [107]:
+        intervals [148]:
             xmin = 390.7581029767202 
             xmax = 392.60120563779196 
             text = "the network" 
-        intervals [108]:
+        intervals [149]:
             xmin = 392.60120563779196 
             xmax = 435.216321042952 
             text = "" 
-        intervals [109]:
+        intervals [150]:
             xmin = 435.216321042952 
             xmax = 435.9449895313997 
             text = "mjm" 
-        intervals [110]:
+        intervals [151]:
             xmin = 435.9449895313997 
+            xmax = 436.84510933060267 
+            text = "" 
+        intervals [152]:
+            xmin = 436.84510933060267 
             xmax = 440.4414647588387 
             text = "i think not many people can" 
-        intervals [111]:
+        intervals [153]:
             xmin = 440.4414647588387 
             xmax = 443.2704130081062 
             text = "imagine the life we saw on " 
-        intervals [112]:
+        intervals [154]:
             xmin = 443.2704130081062 
             xmax = 446.6565783367748 
             text = "the internet we saw the network" 
-        intervals [113]:
+        intervals [155]:
             xmin = 446.6565783367748 
             xmax = 449.952 
             text = "we can study we can communicate" 
