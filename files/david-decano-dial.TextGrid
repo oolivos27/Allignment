@@ -11,7 +11,7 @@ item []:
         name = "Ch1" 
         xmin = 0 
         xmax = 425.91 
-        intervals: size = 264 
+        intervals: size = 281 
         intervals [1]:
             xmin = 0 
             xmax = 3.568725852518549 
@@ -74,218 +74,218 @@ item []:
             text = "ok" 
         intervals [16]:
             xmin = 17.225791666666666 
-            xmax = 17.74 
+            xmax = 17.793986939284256 
             text = "" 
         intervals [17]:
-            xmin = 17.74 
-            xmax = 19.936371858509666 
-            text = "that that would be great I" 
+            xmin = 17.793986939284256 
+            xmax = 19.467207816524272 
+            text = "that that would be great " 
         intervals [18]:
-            xmin = 19.936371858509666 
-            xmax = 21.908063078406435 
-            text = "Actually I prefer to live in " 
+            xmin = 19.467207816524272 
+            xmax = 19.692449088460428 
+            text = "" 
         intervals [19]:
+            xmin = 19.692449088460428 
+            xmax = 21.908063078406435 
+            text = "I Actually I prefer to live in " 
+        intervals [20]:
             xmin = 21.908063078406435 
             xmax = 24.346089965740003 
             text = "rural areas I dislike the cities" 
-        intervals [20]:
+        intervals [21]:
             xmin = 24.346089965740003 
             xmax = 24.83613177137044 
             text = "I don't know " 
-        intervals [21]:
+        intervals [22]:
             xmin = 24.83613177137044 
             xmax = 24.903104978568017 
             text = "" 
-        intervals [22]:
+        intervals [23]:
             xmin = 24.903104978568017 
             xmax = 25.20314494681318 
             text = "you" 
-        intervals [23]:
+        intervals [24]:
             xmin = 25.20314494681318 
             xmax = 33.08105021639266 
             text = "" 
-        intervals [24]:
+        intervals [25]:
             xmin = 33.08105021639266 
             xmax = 33.76297916666667 
             text = "Yeah" 
-        intervals [25]:
+        intervals [26]:
             xmin = 33.76297916666667 
             xmax = 36.532589178561544 
             text = "" 
-        intervals [26]:
+        intervals [27]:
             xmin = 36.532589178561544 
             xmax = 37.321354166666666 
             text = "Yeah" 
-        intervals [27]:
-            xmin = 37.321354166666666 
-            xmax = 42.79 
-            text = "" 
         intervals [28]:
-            xmin = 42.79 
+            xmin = 37.321354166666666 
+            xmax = 43.19356716643032 
+            text = "" 
+        intervals [29]:
+            xmin = 43.19356716643032 
             xmax = 43.606920630954065 
             text = "Yeah" 
-        intervals [29]:
+        intervals [30]:
             xmin = 43.606920630954065 
             xmax = 45.12557376957933 
             text = "but What do you prefer " 
-        intervals [30]:
+        intervals [31]:
             xmin = 45.12557376957933 
             xmax = 46.89 
             text = "to live there or live here?" 
-        intervals [31]:
-            xmin = 46.89 
-            xmax = 69.3010847248872 
-            text = "" 
         intervals [32]:
-            xmin = 69.3010847248872 
-            xmax = 69.91 
-            text = "yeah" 
+            xmin = 46.89 
+            xmax = 69.69482053171451 
+            text = "" 
         intervals [33]:
-            xmin = 69.91 
+            xmin = 69.69482053171451 
+            xmax = 70.01659377733759 
+            text = "yeah" 
+        intervals [34]:
+            xmin = 70.01659377733759 
             xmax = 71.13605374817367 
             text = "" 
-        intervals [34]:
+        intervals [35]:
             xmin = 71.13605374817367 
             xmax = 71.63583493024824 
             text = "yeah" 
-        intervals [35]:
+        intervals [36]:
             xmin = 71.63583493024824 
             xmax = 72 
             text = "" 
-        intervals [36]:
+        intervals [37]:
             xmin = 72 
             xmax = 72.26554062849966 
             text = "yeah" 
-        intervals [37]:
+        intervals [38]:
             xmin = 72.26554062849966 
             xmax = 73.39362951479177 
             text = " I I I I I prefer " 
-        intervals [38]:
-            xmin = 73.39362951479177 
-            xmax = 74.02820079814586 
-            text = "to live " 
         intervals [39]:
-            xmin = 74.02820079814586 
+            xmin = 73.39362951479177 
+            xmax = 73.9492692655185 
+            text = "to live " 
+        intervals [40]:
+            xmin = 73.9492692655185 
             xmax = 74.77294286036698 
             text = "" 
-        intervals [40]:
+        intervals [41]:
             xmin = 74.77294286036698 
             xmax = 75.92253781857241 
             text = "outside of the city " 
-        intervals [41]:
+        intervals [42]:
             xmin = 75.92253781857241 
             xmax = 77.76564048064982 
             text = "but I have to live here " 
-        intervals [42]:
+        intervals [43]:
             xmin = 77.76564048064982 
             xmax = 78.11862930535511 
             text = "" 
-        intervals [43]:
+        intervals [44]:
             xmin = 78.11862930535511 
             xmax = 78.91714897746405 
             text = "is the same" 
-        intervals [44]:
+        intervals [45]:
             xmin = 78.91714897746405 
             xmax = 79.27612536804308 
             text = "" 
-        intervals [45]:
+        intervals [46]:
             xmin = 79.27612536804308 
             xmax = 79.88131435821697 
             text = "but" 
-        intervals [46]:
+        intervals [47]:
             xmin = 79.88131435821697 
             xmax = 80.3420900237363 
             text = "" 
-        intervals [47]:
+        intervals [48]:
             xmin = 80.3420900237363 
             xmax = 81.02321727874013 
             text = "also when " 
-        intervals [48]:
+        intervals [49]:
             xmin = 81.02321727874013 
             xmax = 81.99052690393079 
             text = "I'm living " 
-        intervals [49]:
+        intervals [50]:
             xmin = 81.99052690393079 
             xmax = 82.24913864067426 
             text = "" 
-        intervals [50]:
+        intervals [51]:
             xmin = 82.24913864067426 
             xmax = 82.9456599955291 
             text = "eh " 
-        intervals [51]:
+        intervals [52]:
             xmin = 82.9456599955291 
             xmax = 83.08544775804943 
             text = "" 
-        intervals [52]:
-            xmin = 83.08544775804943 
-            xmax = 84.53797119246916 
-            text = "in rural areas " 
         intervals [53]:
-            xmin = 84.53797119246916 
+            xmin = 83.08544775804943 
+            xmax = 84.37995433692443 
+            text = "in rural areas " 
+        intervals [54]:
+            xmin = 84.37995433692443 
             xmax = 85.23236714721087 
             text = "" 
-        intervals [54]:
+        intervals [55]:
             xmin = 85.23236714721087 
             xmax = 87.80994687884146 
             text = "sometimes I'm missing " 
-        intervals [55]:
+        intervals [56]:
             xmin = 87.80994687884146 
             xmax = 88.08319756420758 
             text = "" 
-        intervals [56]:
+        intervals [57]:
             xmin = 88.08319756420758 
             xmax = 89.38147353699817 
             text = "the Internet or" 
-        intervals [57]:
-            xmin = 89.38147353699817 
-            xmax = 91.98316978503175 
-            text = " maybe the technology " 
         intervals [58]:
-            xmin = 91.98316978503175 
+            xmin = 89.38147353699817 
+            xmax = 91.84509363537985 
+            text = " maybe the technology " 
+        intervals [59]:
+            xmin = 91.84509363537985 
             xmax = 92.31535689273174 
             text = "" 
-        intervals [59]:
+        intervals [60]:
             xmin = 92.31535689273174 
             xmax = 92.9819531559401 
             text = "this kind of" 
-        intervals [60]:
+        intervals [61]:
             xmin = 92.9819531559401 
             xmax = 94.08297413308394 
             text = " things but" 
-        intervals [61]:
+        intervals [62]:
             xmin = 94.08297413308394 
             xmax = 95.01 
             text = "" 
-        intervals [62]:
+        intervals [63]:
             xmin = 95.01 
             xmax = 95.70109928372457 
             text = "I " 
-        intervals [63]:
+        intervals [64]:
             xmin = 95.70109928372457 
             xmax = 96.15115923609231 
             text = "" 
-        intervals [64]:
-            xmin = 96.15115923609231 
-            xmax = 97.929519774054 
-            text = "I have the impression " 
         intervals [65]:
-            xmin = 97.929519774054 
+            xmin = 96.15115923609231 
+            xmax = 97.81861637465775 
+            text = "I have the impression " 
+        intervals [66]:
+            xmin = 97.81861637465775 
             xmax = 98.12776046735884 
             text = "" 
-        intervals [66]:
-            xmin = 98.12776046735884 
-            xmax = 98.30370833333333 
-            text = "that" 
         intervals [67]:
-            xmin = 98.30370833333333 
+            xmin = 98.12776046735884 
             xmax = 99.2741178519784 
-            text = " I have two " 
+            text = "that I have two " 
         intervals [68]:
             xmin = 99.2741178519784 
-            xmax = 99.49914782816226 
+            xmax = 99.49914782816227 
             text = "" 
         intervals [69]:
-            xmin = 99.49914782816226 
+            xmin = 99.49914782816227 
             xmax = 100.17959561328968 
             text = "Ssss" 
         intervals [70]:
@@ -370,701 +370,769 @@ item []:
             text = "" 
         intervals [90]:
             xmin = 120.53760768442481 
-            xmax = 123.66659592469578 
-            text = "like I'm more myself I don't " 
+            xmax = 121.31008234938142 
+            text = "like " 
         intervals [91]:
-            xmin = 123.66659592469578 
-            xmax = 124.59739680734843 
-            text = "know I " 
+            xmin = 121.31008234938142 
+            xmax = 121.48705763447411 
+            text = "" 
         intervals [92]:
+            xmin = 121.48705763447411 
+            xmax = 122.59717533187373 
+            text = "I'm more " 
+        intervals [93]:
+            xmin = 122.59717533187373 
+            xmax = 122.82241660380988 
+            text = "" 
+        intervals [94]:
+            xmin = 122.82241660380988 
+            xmax = 124.59739680734843 
+            text = "myself  I don't know I " 
+        intervals [95]:
             xmin = 124.59739680734843 
             xmax = 124.9885203373823 
             text = "" 
-        intervals [93]:
+        intervals [96]:
             xmin = 124.9885203373823 
             xmax = 126.4955441967216 
             text = "probably I prefer to " 
-        intervals [94]:
+        intervals [97]:
             xmin = 126.4955441967216 
             xmax = 128.38150971140547 
             text = "be a farmer than a teacher " 
-        intervals [95]:
+        intervals [98]:
             xmin = 128.38150971140547 
             xmax = 129.4415857609288 
             text = "I don't know" 
-        intervals [96]:
+        intervals [99]:
             xmin = 129.4415857609288 
             xmax = 130.43353395816945 
             text = "yeah yeah yeah " 
-        intervals [97]:
+        intervals [100]:
             xmin = 130.43353395816945 
             xmax = 132.14269020168405 
             text = "I have that impression" 
-        intervals [98]:
+        intervals [101]:
             xmin = 132.14269020168405 
             xmax = 132.67391808582553 
             text = " yeah" 
-        intervals [99]:
+        intervals [102]:
             xmin = 132.67391808582553 
             xmax = 151.6281397766439 
             text = "" 
-        intervals [100]:
+        intervals [103]:
             xmin = 151.6281397766439 
             xmax = 152.17999900395242 
             text = "yeah" 
-        intervals [101]:
+        intervals [104]:
             xmin = 152.17999900395242 
             xmax = 152.92 
             text = "" 
-        intervals [102]:
+        intervals [105]:
             xmin = 152.92 
             xmax = 153.2995919859818 
             text = "yeah" 
-        intervals [103]:
+        intervals [106]:
             xmin = 153.2995919859818 
             xmax = 170.12036514947377 
             text = "	" 
-        intervals [104]:
+        intervals [107]:
             xmin = 170.12036514947377 
             xmax = 171.18992726841907 
             text = "other things" 
-        intervals [105]:
+        intervals [108]:
             xmin = 171.18992726841907 
             xmax = 173.57641693446232 
             text = "" 
-        intervals [106]:
+        intervals [109]:
             xmin = 173.57641693446232 
             xmax = 174.17234060611872 
             text = "okey" 
-        intervals [107]:
+        intervals [110]:
             xmin = 174.17234060611872 
             xmax = 184.49410985660307 
             text = "" 
-        intervals [108]:
+        intervals [111]:
             xmin = 184.49410985660307 
             xmax = 184.77670127296437 
             text = "yeah " 
-        intervals [109]:
+        intervals [112]:
             xmin = 184.77670127296437 
             xmax = 185.74249043876702 
             text = "that's great" 
-        intervals [110]:
+        intervals [113]:
             xmin = 185.74249043876702 
             xmax = 189.95920915506343 
             text = "	" 
-        intervals [111]:
+        intervals [114]:
             xmin = 189.95920915506343 
             xmax = 190.50661960062692 
             text = "yes" 
-        intervals [112]:
+        intervals [115]:
             xmin = 190.50661960062692 
             xmax = 195.3793305182345 
             text = "" 
-        intervals [113]:
+        intervals [116]:
             xmin = 195.3793305182345 
             xmax = 195.9325292083376 
             text = "Okay" 
-        intervals [114]:
+        intervals [117]:
             xmin = 195.9325292083376 
             xmax = 198.56147362358382 
             text = "" 
-        intervals [115]:
+        intervals [118]:
             xmin = 198.56147362358382 
             xmax = 198.86553198351942 
             text = "okay" 
-        intervals [116]:
+        intervals [119]:
             xmin = 198.86553198351942 
             xmax = 205.57399995081417 
             text = "" 
-        intervals [117]:
+        intervals [120]:
             xmin = 205.57399995081417 
             xmax = 206.0588859697423 
             text = "yes" 
-        intervals [118]:
+        intervals [121]:
             xmin = 206.0588859697423 
             xmax = 206.1 
             text = "" 
-        intervals [119]:
+        intervals [122]:
             xmin = 206.1 
             xmax = 206.53 
             text = "" 
-        intervals [120]:
+        intervals [123]:
             xmin = 207.41419972814433 
             xmax = 207.97543520309154 
             text = "yes" 
-        intervals [121]:
+        intervals [124]:
             xmin = 207.97543520309154 
             xmax = 208.96241448107307 
             text = "" 
-        intervals [122]:
+        intervals [125]:
             xmin = 208.96241448107307 
             xmax = 209.58310528238283 
             text = "Yeah" 
-        intervals [123]:
+        intervals [126]:
             xmin = 209.58310528238283 
             xmax = 210.22069021490378 
             text = "that that" 
-        intervals [124]:
+        intervals [127]:
             xmin = 210.22069021490378 
             xmax = 210.44572019108764 
             text = "" 
-        intervals [125]:
+        intervals [128]:
             xmin = 210.44572019108764 
             xmax = 211.82782326504267 
             text = "I don't know I I is" 
-        intervals [126]:
+        intervals [129]:
             xmin = 211.82782326504267 
             xmax = 212.03677967149912 
             text = "like" 
-        intervals [127]:
+        intervals [130]:
             xmin = 212.03677967149912 
             xmax = 212.63673520654334 
             text = "Eh" 
-        intervals [128]:
+        intervals [131]:
             xmin = 212.63673520654334 
             xmax = 212.9421330313643 
             text = "" 
-        intervals [129]:
+        intervals [132]:
             xmin = 212.9421330313643 
             xmax = 213.75652723088686 
             text = "we want" 
-        intervals [130]:
+        intervals [133]:
             xmin = 213.75652723088686 
             xmax = 213.99214851877625 
             text = "" 
-        intervals [131]:
+        intervals [134]:
             xmin = 213.99214851877625 
             xmax = 215.99033045808133 
             text = "the best of the two worlds" 
-        intervals [132]:
+        intervals [135]:
             xmin = 215.99033045808133 
             xmax = 218.54575436155952 
             text = "and we wish to have both " 
-        intervals [133]:
+        intervals [136]:
             xmin = 218.54575436155952 
-            xmax = 219.63845853955337 
+            xmax = 219.49921658149677 
             text = "worlds" 
-        intervals [134]:
-            xmin = 219.63845853955337 
+        intervals [137]:
+            xmin = 219.49921658149677 
             xmax = 219.75633138422108 
             text = "" 
-        intervals [135]:
+        intervals [138]:
             xmin = 219.75633138422108 
             xmax = 220.3510534641356 
             text = "Mm-hm" 
-        intervals [136]:
+        intervals [139]:
             xmin = 220.3510534641356 
-            xmax = 221.60987607626865 
+            xmax = 221.5340323548779 
             text = "at the same time" 
-        intervals [137]:
-            xmin = 221.60987607626865 
+        intervals [140]:
+            xmin = 221.5340323548779 
             xmax = 222.18 
             text = "" 
-        intervals [138]:
+        intervals [141]:
             xmin = 222.18 
-            xmax = 223.02435021228152 
+            xmax = 222.91765731105713 
             text = "Uhm" 
-        intervals [139]:
-            xmin = 223.02435021228152 
+        intervals [142]:
+            xmin = 222.91765731105713 
             xmax = 224.45 
             text = "" 
-        intervals [140]:
+        intervals [143]:
             xmin = 224.45 
             xmax = 226.6218814639627 
             text = "I I have also the impression" 
-        intervals [141]:
+        intervals [144]:
             xmin = 226.6218814639627 
             xmax = 228.4968824626027 
             text = " when I'm in the countryside in " 
-        intervals [142]:
+        intervals [145]:
             xmin = 228.4968824626027 
-            xmax = 230.69323045584738 
+            xmax = 230.629358456948 
             text = "the rural areas and now " 
-        intervals [143]:
-            xmin = 230.69323045584738 
+        intervals [146]:
+            xmin = 230.629358456948 
             xmax = 231.00934399304916 
             text = "" 
-        intervals [144]:
+        intervals [147]:
             xmin = 231.00934399304916 
             xmax = 231.6308553543272 
             text = "eh" 
-        intervals [145]:
+        intervals [148]:
             xmin = 231.6308553543272 
             xmax = 231.9148217521525 
             text = "" 
-        intervals [146]:
+        intervals [149]:
             xmin = 231.9148217521525 
             xmax = 234.17018080708326 
             text = "they are became they they are " 
-        intervals [147]:
+        intervals [150]:
             xmin = 234.17018080708326 
             xmax = 234.31992711268842 
             text = "" 
-        intervals [148]:
+        intervals [151]:
             xmin = 234.31992711268842 
             xmax = 237.07287221605185 
             text = "changing and now it looks more " 
-        intervals [149]:
+        intervals [152]:
             xmin = 237.07287221605185 
-            xmax = 238.61124678162906 
+            xmax = 238.49671431243226 
             text = "like cities" 
-        intervals [150]:
-            xmin = 238.61124678162906 
+        intervals [153]:
+            xmin = 238.49671431243226 
             xmax = 238.96 
             text = "" 
-        intervals [151]:
+        intervals [154]:
             xmin = 238.96 
             xmax = 239.63414932520146 
             text = "eh" 
-        intervals [152]:
+        intervals [155]:
             xmin = 239.63414932520146 
             xmax = 240.06 
             text = "" 
-        intervals [153]:
+        intervals [156]:
             xmin = 240.06 
             xmax = 240.98924054752823 
             text = "I don't know I have the " 
-        intervals [154]:
+        intervals [157]:
             xmin = 240.98924054752823 
             xmax = 242.76767890571708 
             text = "impression that the rural areas in " 
-        intervals [155]:
+        intervals [158]:
             xmin = 242.76767890571708 
-            xmax = 244.28639700074274 
+            xmax = 244.19793555342736 
             text = "Colombia are changing" 
-        intervals [156]:
-            xmin = 244.28639700074274 
+        intervals [159]:
+            xmin = 244.19793555342736 
             xmax = 244.69 
             text = "" 
-        intervals [157]:
+        intervals [160]:
             xmin = 244.69 
             xmax = 247.0025960375412 
             text = "are not the same as before" 
-        intervals [158]:
+        intervals [161]:
             xmin = 247.0025960375412 
             xmax = 247.27 
             text = "" 
-        intervals [159]:
+        intervals [162]:
             xmin = 247.27 
             xmax = 248.17042384149914 
             text = "Uhm" 
-        intervals [160]:
+        intervals [163]:
             xmin = 248.17042384149914 
             xmax = 249.77754656981003 
             text = "I'm a bit worried" 
-        intervals [161]:
+        intervals [164]:
             xmin = 249.77754656981003 
             xmax = 249.94 
             text = "" 
-        intervals [162]:
+        intervals [165]:
             xmin = 249.94 
             xmax = 252.58203928386195 
             text = "because I dislike to think in " 
-        intervals [163]:
+        intervals [166]:
             xmin = 252.58203928386195 
             xmax = 255.3222500476088 
             text = "a country that is only cities" 
-        intervals [164]:
+        intervals [167]:
             xmin = 255.3222500476088 
             xmax = 255.76159428575363 
             text = "" 
-        intervals [165]:
+        intervals [168]:
             xmin = 255.76159428575363 
             xmax = 257.1409464679081 
             text = "I I don't like it" 
-        intervals [166]:
+        intervals [169]:
             xmin = 257.1409464679081 
             xmax = 263.8347252516953 
             text = "" 
-        intervals [167]:
+        intervals [170]:
             xmin = 263.8347252516953 
             xmax = 264.3999791190646 
             text = "yes" 
-        intervals [168]:
+        intervals [171]:
             xmin = 264.3999791190646 
             xmax = 274.57 
             text = "" 
-        intervals [169]:
+        intervals [172]:
             xmin = 274.57 
             xmax = 275.0874851902167 
             text = "Uh-huh" 
-        intervals [170]:
+        intervals [173]:
             xmin = 275.0874851902167 
-            xmax = 278.98 
+            xmax = 279.0371416871987 
             text = "" 
-        intervals [171]:
-            xmin = 278.98 
+        intervals [174]:
+            xmin = 279.0371416871987 
             xmax = 279.43 
             text = "yes" 
-        intervals [172]:
+        intervals [175]:
             xmin = 279.43 
             xmax = 281.30168649784645 
             text = "" 
-        intervals [173]:
+        intervals [176]:
             xmin = 281.30168649784645 
             xmax = 281.81068287130694 
             text = "Yeah" 
-        intervals [174]:
+        intervals [177]:
             xmin = 281.81068287130694 
             xmax = 282.8043803369758 
             text = "" 
-        intervals [175]:
+        intervals [178]:
             xmin = 282.8043803369758 
             xmax = 283.4660756224744 
             text = "Yeah" 
-        intervals [176]:
+        intervals [179]:
             xmin = 283.4660756224744 
             xmax = 285.92 
             text = "" 
-        intervals [177]:
+        intervals [180]:
             xmin = 285.92 
             xmax = 286.45 
             text = "yes" 
-        intervals [178]:
+        intervals [181]:
             xmin = 286.45 
             xmax = 291.45 
             text = "" 
-        intervals [179]:
+        intervals [182]:
             xmin = 291.45 
-            xmax = 292.0026735095412 
+            xmax = 291.8501554284562 
             text = "yeah" 
-        intervals [180]:
-            xmin = 292.0026735095412 
+        intervals [183]:
+            xmin = 291.8501554284562 
             xmax = 298.16 
             text = "" 
-        intervals [181]:
+        intervals [184]:
             xmin = 298.16 
             xmax = 298.69639065108845 
             text = "yes " 
-        intervals [182]:
+        intervals [185]:
             xmin = 298.69639065108845 
             xmax = 299.1357348892333 
             text = "" 
-        intervals [183]:
+        intervals [186]:
             xmin = 299.1357348892333 
             xmax = 301.72591334077543 
             text = "yes I I visited the Germany " 
-        intervals [184]:
+        intervals [187]:
             xmin = 301.72591334077543 
             xmax = 303.99996592666787 
             text = "once around" 
-        intervals [185]:
+        intervals [188]:
             xmin = 303.99996592666787 
             xmax = 305.12 
             text = "" 
-        intervals [186]:
+        intervals [189]:
             xmin = 305.12 
             xmax = 306.3169799926461 
             text = "I believe that it was " 
-        intervals [187]:
+        intervals [190]:
             xmin = 306.3169799926461 
             xmax = 307.0911039668264 
             text = "Eh" 
-        intervals [188]:
+        intervals [191]:
             xmin = 307.0911039668264 
-            xmax = 308.52956516944283 
+            xmax = 308.35873622303205 
             text = "Ninety  " 
-        intervals [189]:
-            xmin = 308.52956516944283 
+        intervals [192]:
+            xmin = 308.35873622303205 
+            xmax = 308.60006615724933 
+            text = "" 
+        intervals [193]:
+            xmin = 308.60006615724933 
             xmax = 309.11876912152064 
             text = "Yeah" 
-        intervals [190]:
+        intervals [194]:
             xmin = 309.11876912152064 
             xmax = 309.42416694559694 
             text = "" 
-        intervals [191]:
+        intervals [195]:
             xmin = 309.42416694559694 
             xmax = 309.97586590173563 
             text = "around " 
-        intervals [192]:
+        intervals [196]:
             xmin = 309.97586590173563 
             xmax = 310.55987226707447 
             text = "Eh " 
-        intervals [193]:
+        intervals [197]:
             xmin = 310.55987226707447 
             xmax = 310.8116915255234 
             text = "" 
-        intervals [194]:
+        intervals [198]:
             xmin = 310.8116915255234 
             xmax = 312.53929205580795 
             text = "Nineteen ninety yes" 
-        intervals [195]:
+        intervals [199]:
             xmin = 312.53929205580795 
             xmax = 312.89 
             text = "" 
-        intervals [196]:
+        intervals [200]:
             xmin = 312.89 
+            xmax = 313.6249609251235 
+            text = "And " 
+        intervals [201]:
+            xmin = 313.6249609251235 
+            xmax = 314.13979811812044 
+            text = "" 
+        intervals [202]:
+            xmin = 314.13979811812044 
             xmax = 314.8375289669207 
-            text = "And and It's " 
-        intervals [197]:
+            text = "and It's " 
+        intervals [203]:
             xmin = 314.8375289669207 
-            xmax = 315.79109182216087 
+            xmax = 315.74866434623584 
             text = "Eh" 
-        intervals [198]:
-            xmin = 315.79109182216087 
+        intervals [204]:
+            xmin = 315.74866434623584 
             xmax = 316.79286305801776 
             text = "" 
-        intervals [199]:
+        intervals [205]:
             xmin = 316.79286305801776 
             xmax = 318.7938005721382 
             text = "no ninety eight probably" 
-        intervals [200]:
+        intervals [206]:
             xmin = 318.7938005721382 
             xmax = 320.42 
             text = "" 
-        intervals [201]:
+        intervals [207]:
             xmin = 320.42 
             xmax = 320.9794855100894 
             text = "kind of " 
-        intervals [202]:
+        intervals [208]:
             xmin = 320.9794855100894 
             xmax = 321.2741676210402 
             text = "" 
-        intervals [203]:
+        intervals [209]:
             xmin = 321.2741676210402 
             xmax = 321.8098423212825 
             text = "Yeah" 
-        intervals [204]:
+        intervals [210]:
             xmin = 321.8098423212825 
             xmax = 321.9357519505069 
             text = "" 
-        intervals [205]:
+        intervals [211]:
             xmin = 321.9357519505069 
+            xmax = 322.7530676778764 
+            text = " And " 
+        intervals [212]:
+            xmin = 322.7530676778764 
+            xmax = 323.26790487087334 
+            text = "" 
+        intervals [213]:
+            xmin = 323.26790487087334 
             xmax = 326.26785416666667 
-            text = " And I it was really surprising " 
-        intervals [206]:
+            text = "I  it was really surprising " 
+        intervals [214]:
             xmin = 326.26785416666667 
+            xmax = 326.8639244345827 
+            text = "for me " 
+        intervals [215]:
+            xmin = 326.8639244345827 
+            xmax = 327.16960901792464 
+            text = "" 
+        intervals [216]:
+            xmin = 327.16960901792464 
+            xmax = 327.6844462109216 
+            text = "that " 
+        intervals [217]:
+            xmin = 327.6844462109216 
+            xmax = 328.2636380530431 
+            text = "" 
+        intervals [218]:
+            xmin = 328.2636380530431 
             xmax = 329.8161356931177 
-            text = "for me that every little town" 
-        intervals [207]:
+            text = "every little town" 
+        intervals [219]:
             xmin = 329.8161356931177 
             xmax = 330.8822135361755 
             text = "" 
-        intervals [208]:
+        intervals [220]:
             xmin = 330.8822135361755 
             xmax = 331.57063646224793 
             text = "Eh" 
-        intervals [209]:
+        intervals [221]:
             xmin = 331.57063646224793 
             xmax = 331.7313721591302 
             text = "" 
-        intervals [210]:
+        intervals [222]:
             xmin = 331.7313721591302 
             xmax = 333.67324996658056 
             text = "you travel across the country and " 
-        intervals [211]:
+        intervals [223]:
             xmin = 333.67324996658056 
             xmax = 336.394658918566 
             text = "you see how every little town " 
-        intervals [212]:
+        intervals [224]:
             xmin = 336.394658918566 
             xmax = 336.67851436035943 
             text = "" 
-        intervals [213]:
+        intervals [225]:
             xmin = 336.67851436035943 
             xmax = 337.5196978407099 
             text = "was" 
-        intervals [214]:
+        intervals [226]:
             xmin = 337.5196978407099 
             xmax = 338.2 
             text = "" 
-        intervals [215]:
+        intervals [227]:
             xmin = 338.2 
+            xmax = 339.0482739175705 
+            text = "beautiful " 
+        intervals [228]:
+            xmin = 339.0482739175705 
+            xmax = 339.4987564614428 
+            text = "" 
+        intervals [229]:
+            xmin = 339.4987564614428 
             xmax = 342.2715371748068 
-            text = "beautiful but the space between towns" 
-        intervals [216]:
+            text = "but the space between towns" 
+        intervals [230]:
             xmin = 342.2715371748068 
             xmax = 342.35994180809206 
             text = "" 
-        intervals [217]:
+        intervals [231]:
             xmin = 342.35994180809206 
             xmax = 343.8947334728059 
             text = " is so short so" 
-        intervals [218]:
+        intervals [232]:
             xmin = 343.8947334728059 
             xmax = 344.39 
             text = "" 
-        intervals [219]:
+        intervals [233]:
             xmin = 344.39 
             xmax = 347.3125404934679 
             text = "you just notice that the that" 
-        intervals [220]:
+        intervals [234]:
             xmin = 347.3125404934679 
             xmax = 349.31346567914034 
             text = "one town ended and the next " 
-        intervals [221]:
+        intervals [235]:
             xmin = 349.31346567914034 
             xmax = 352.78485126542984 
             text = "one started because every single little " 
-        intervals [222]:
+        intervals [236]:
             xmin = 352.78485126542984 
             xmax = 356.4384902739884 
             text = "town has a sportfield for soccer" 
-        intervals [223]:
+        intervals [237]:
             xmin = 356.4384902739884 
             xmax = 357.22 
             text = "" 
-        intervals [224]:
+        intervals [238]:
             xmin = 357.22 
             xmax = 357.4162004691048 
             text = "And " 
-        intervals [225]:
+        intervals [239]:
             xmin = 357.4162004691048 
             xmax = 358.35638101138625 
             text = "Eh" 
-        intervals [226]:
+        intervals [240]:
             xmin = 358.35638101138625 
             xmax = 358.51175885170574 
             text = "" 
-        intervals [227]:
+        intervals [241]:
             xmin = 358.51175885170574 
             xmax = 360.21252078538475 
             text = "living in in in in this " 
-        intervals [228]:
+        intervals [242]:
             xmin = 360.21252078538475 
             xmax = 361.4763816616156 
             text = "little towns " 
-        intervals [229]:
+        intervals [243]:
             xmin = 361.4763816616156 
             xmax = 361.7871373430123 
             text = "" 
-        intervals [230]:
+        intervals [244]:
             xmin = 361.7871373430123 
             xmax = 362.998310315259 
             text = "it it was quite" 
-        intervals [231]:
+        intervals [245]:
             xmin = 362.998310315259 
             xmax = 366.18313687457754 
             text = "similar at this all houses slow" 
-        intervals [232]:
+        intervals [246]:
             xmin = 366.18313687457754 
             xmax = 366.76446431163504 
             text = "time" 
-        intervals [233]:
+        intervals [247]:
             xmin = 366.76446431163504 
             xmax = 367.10991044700415 
             text = "" 
-        intervals [234]:
+        intervals [248]:
             xmin = 367.10991044700415 
+            xmax = 367.6046536637437 
+            text = "but " 
+        intervals [249]:
+            xmin = 367.6046536637437 
+            xmax = 367.89424958480447 
+            text = "" 
+        intervals [250]:
+            xmin = 367.89424958480447 
             xmax = 369.5474393003001 
-            text = "but I didn't have the impression " 
-        intervals [235]:
+            text = "I didn't have the impression " 
+        intervals [251]:
             xmin = 369.5474393003001 
             xmax = 372.77515336901655 
             text = "that it was actually rural areas" 
-        intervals [236]:
+        intervals [252]:
             xmin = 372.77515336901655 
             xmax = 374.7358699735725 
             text = "because I have the impression of" 
-        intervals [237]:
+        intervals [253]:
             xmin = 374.7358699735725 
             xmax = 378.5421092665853 
             text = "rural areas more like selvatic or" 
-        intervals [238]:
+        intervals [254]:
             xmin = 378.5421092665853 
             xmax = 380.4546298189725 
             text = " the forest or " 
-        intervals [239]:
+        intervals [255]:
             xmin = 380.4546298189725 
             xmax = 381.14838594471166 
             text = "Ah" 
-        intervals [240]:
+        intervals [256]:
             xmin = 381.14838594471166 
             xmax = 383.4118091166145 
             text = "wild animals kind of" 
-        intervals [241]:
+        intervals [257]:
             xmin = 383.4118091166145 
-            xmax = 383.6768874035424 
+            xmax = 383.7653149199779 
             text = "" 
-        intervals [242]:
-            xmin = 383.6768874035424 
-            xmax = 384.61177173150094 
+        intervals [258]:
+            xmin = 383.7653149199779 
+            xmax = 384.52148204719214 
             text = "And " 
-        intervals [243]:
-            xmin = 384.61177173150094 
+        intervals [259]:
+            xmin = 384.52148204719214 
             xmax = 384.79929671119686 
             text = "" 
-        intervals [244]:
+        intervals [260]:
             xmin = 384.79929671119686 
             xmax = 386.4920835022718 
             text = "now I have the impression that " 
-        intervals [245]:
+        intervals [261]:
             xmin = 386.4920835022718 
-            xmax = 388.8840952316804 
+            xmax = 388.7419437010086 
             text = "in Colombia we are also" 
-        intervals [246]:
-            xmin = 388.8840952316804 
+        intervals [262]:
+            xmin = 388.7419437010086 
             xmax = 389.35808061076335 
             text = "" 
-        intervals [247]:
+        intervals [263]:
             xmin = 389.35808061076335 
             xmax = 392.2243119597665 
             text = "building small towns and putting together " 
-        intervals [248]:
+        intervals [264]:
             xmin = 392.2243119597665 
             xmax = 395.7010923879626 
             text = "like in the Sabana of Bogota" 
-        intervals [249]:
+        intervals [265]:
             xmin = 395.7010923879626 
-            xmax = 398.770625 
-            text = "that you don't notice when when" 
-        intervals [250]:
-            xmin = 398.770625 
+            xmax = 397.8855355669863 
+            text = "that you don't notice when " 
+        intervals [266]:
+            xmin = 397.8855355669863 
+            xmax = 398.3681954354209 
+            text = "" 
+        intervals [267]:
+            xmin = 398.3681954354209 
             xmax = 399.8983319255758 
-            text = " one town is" 
-        intervals [251]:
+            text = " when one town is" 
+        intervals [268]:
             xmin = 399.8983319255758 
             xmax = 400.30820795262554 
             text = " eh" 
-        intervals [252]:
+        intervals [269]:
             xmin = 400.30820795262554 
             xmax = 401.96892157501185 
             text = "is is ended and the next" 
-        intervals [253]:
+        intervals [270]:
             xmin = 401.96892157501185 
             xmax = 403.238474682974 
             text = " one is starting at " 
-        intervals [254]:
+        intervals [271]:
             xmin = 403.238474682974 
             xmax = 403.47957822829744 
             text = "" 
-        intervals [255]:
+        intervals [272]:
             xmin = 403.47957822829744 
-            xmax = 405.4912561124393 
+            xmax = 405.3506748654417 
             text = "I don't know What kind of " 
-        intervals [256]:
-            xmin = 405.4912561124393 
+        intervals [273]:
+            xmin = 405.3506748654417 
             xmax = 405.8823796415195 
             text = "" 
-        intervals [257]:
+        intervals [274]:
             xmin = 405.8823796415195 
             xmax = 408.2 
             text = "rural areas do you really like" 
-        intervals [258]:
+        intervals [275]:
             xmin = 408.2 
             xmax = 416.44917367018604 
             text = "" 
-        intervals [259]:
+        intervals [276]:
             xmin = 416.44917367018604 
             xmax = 417.45377177570015 
             text = "okey" 
-        intervals [260]:
+        intervals [277]:
             xmin = 417.45377177570015 
             xmax = 417.63058104227065 
             text = "" 
-        intervals [261]:
+        intervals [278]:
             xmin = 417.63058104227065 
             xmax = 418.64306799125296 
             text = "different regions" 
-        intervals [262]:
+        intervals [279]:
             xmin = 418.64306799125296 
             xmax = 425.31 
             text = "" 
-        intervals [263]:
+        intervals [280]:
             xmin = 425.31 
             xmax = 425.8585929307423 
             text = "ah ok" 
-        intervals [264]:
+        intervals [281]:
             xmin = 425.8585929307423 
             xmax = 425.91 
             text = "" 
@@ -1073,7 +1141,7 @@ item []:
         name = "Ch2" 
         xmin = 0 
         xmax = 445.872 
-        intervals: size = 214 
+        intervals: size = 235 
         intervals [1]:
             xmin = 0 
             xmax = 12.538354166666666 
@@ -1100,10 +1168,10 @@ item []:
             text = "" 
         intervals [7]:
             xmin = 17.134417885510537 
-            xmax = 17.7 
+            xmax = 17.44003636909887 
             text = "yes?" 
         intervals [8]:
-            xmin = 17.7 
+            xmin = 17.44003636909887 
             xmax = 25.95 
             text = "" 
         intervals [9]:
@@ -1140,794 +1208,878 @@ item []:
             text = "" 
         intervals [17]:
             xmin = 31.254693256845115 
-            xmax = 34.282060890340006 
-            text = "the animals, the forest and " 
+            xmax = 32.05317097629244 
+            text = "the animals, " 
         intervals [18]:
-            xmin = 34.282060890340006 
-            xmax = 34.67883333333334 
-            text = "eh " 
+            xmin = 32.05317097629244 
+            xmax = 32.35885555963437 
+            text = "" 
         intervals [19]:
-            xmin = 34.67883333333334 
+            xmin = 32.35885555963437 
+            xmax = 34.282060890340006 
+            text = "the forest and " 
+        intervals [20]:
+            xmin = 34.282060890340006 
+            xmax = 34.627356941277085 
+            text = "eh " 
+        intervals [21]:
+            xmin = 34.627356941277085 
+            xmax = 35.093928147430546 
+            text = "" 
+        intervals [22]:
+            xmin = 35.093928147430546 
             xmax = 38.065416666666664 
             text = "is clean air it's very nice" 
-        intervals [20]:
+        intervals [23]:
             xmin = 38.065416666666664 
+            xmax = 38.65656440314489 
+            text = "to be " 
+        intervals [24]:
+            xmin = 38.65656440314489 
+            xmax = 39.05878096017374 
+            text = "" 
+        intervals [25]:
+            xmin = 39.05878096017374 
             xmax = 40.539248540689016 
-            text = "to be out the city but" 
-        intervals [21]:
+            text = "out the city but" 
+        intervals [26]:
             xmin = 40.539248540689016 
             xmax = 42.16803693973417 
             text = " because of my work I have" 
-        intervals [22]:
+        intervals [27]:
             xmin = 42.16803693973417 
             xmax = 42.79 
             text = "to be here" 
-        intervals [23]:
+        intervals [28]:
             xmin = 42.79 
             xmax = 43.18180526133855 
             text = "" 
-        intervals [24]:
+        intervals [29]:
             xmin = 43.18180526133855 
             xmax = 44.17372916666667 
             text = "Unless" 
-        intervals [25]:
+        intervals [30]:
             xmin = 44.17372916666667 
             xmax = 47.56 
             text = "" 
-        intervals [26]:
+        intervals [31]:
             xmin = 47.56 
             xmax = 49.42085453134865 
             text = "no because of the distance and " 
-        intervals [27]:
+        intervals [32]:
             xmin = 49.42085453134865 
             xmax = 50.53528869911639 
             text = "the traffic is" 
-        intervals [28]:
+        intervals [33]:
             xmin = 50.53528869911639 
             xmax = 51.04964293039381 
             text = "eh" 
-        intervals [29]:
+        intervals [34]:
             xmin = 51.04964293039381 
+            xmax = 51.390944142549785 
+            text = "" 
+        intervals [35]:
+            xmin = 51.390944142549785 
             xmax = 51.735448572097035 
             text = "is " 
-        intervals [30]:
+        intervals [36]:
             xmin = 51.735448572097035 
             xmax = 52.33552850858735 
             text = "eh " 
-        intervals [31]:
+        intervals [37]:
             xmin = 52.33552850858735 
             xmax = 54.092905465451864 
             text = "necessary to live in the city " 
-        intervals [32]:
+        intervals [38]:
             xmin = 54.092905465451864 
             xmax = 55.464516748858316 
             text = "and my work is in " 
-        intervals [33]:
+        intervals [39]:
             xmin = 55.464516748858316 
-            xmax = 56.116458333333334 
+            xmax = 56.03152054816544 
             text = "the city " 
-        intervals [34]:
-            xmin = 56.116458333333334 
+        intervals [40]:
+            xmin = 56.03152054816544 
             xmax = 56.427852706935674 
             text = "" 
-        intervals [35]:
+        intervals [41]:
             xmin = 56.427852706935674 
             xmax = 57.00757944269056 
             text = "but" 
-        intervals [36]:
+        intervals [42]:
             xmin = 57.00757944269056 
             xmax = 57.569291666666665 
             text = "eh" 
-        intervals [37]:
+        intervals [43]:
             xmin = 57.569291666666665 
             xmax = 58.1902889569053 
             text = "" 
-        intervals [38]:
+        intervals [44]:
             xmin = 58.1902889569053 
             xmax = 60.736647619451844 
             text = "when in the weekends I go" 
-        intervals [39]:
+        intervals [45]:
             xmin = 60.736647619451844 
             xmax = 64.02082021550271 
             text = "to the farm I ride horses " 
-        intervals [40]:
+        intervals [46]:
             xmin = 64.02082021550271 
-            xmax = 65.27753895281442 
+            xmax = 65.27753895281443 
             text = "I like" 
-        intervals [41]:
-            xmin = 65.27753895281442 
+        intervals [47]:
+            xmin = 65.27753895281443 
             xmax = 65.52424915819374 
             text = "" 
-        intervals [42]:
+        intervals [48]:
             xmin = 65.52424915819374 
-            xmax = 66.7777387940402 
+            xmax = 66.70232934741989 
             text = " very much to " 
-        intervals [43]:
-            xmin = 66.7777387940402 
+        intervals [49]:
+            xmin = 66.70232934741989 
             xmax = 67.32424016477245 
             text = "" 
-        intervals [44]:
+        intervals [50]:
             xmin = 67.32424016477245 
             xmax = 67.53557412923173 
             text = "to " 
-        intervals [45]:
+        intervals [51]:
             xmin = 67.53557412923173 
             xmax = 72 
             text = "give price all over the country " 
-        intervals [46]:
+        intervals [52]:
             xmin = 72 
             xmax = 128.88436867704493 
             text = "" 
-        intervals [47]:
+        intervals [53]:
             xmin = 128.88436867704493 
             xmax = 129.53302083333332 
             text = "sure" 
-        intervals [48]:
+        intervals [54]:
             xmin = 129.53302083333332 
             xmax = 132.12645765876618 
             text = ":)" 
-        intervals [49]:
+        intervals [55]:
             xmin = 132.12645765876618 
             xmax = 132.55447217446712 
             text = "" 
-        intervals [50]:
+        intervals [56]:
             xmin = 132.55447217446712 
             xmax = 133.35619853375226 
             text = "eh" 
-        intervals [51]:
+        intervals [57]:
             xmin = 133.35619853375226 
             xmax = 134.43848556206515 
             text = "after " 
-        intervals [52]:
+        intervals [58]:
             xmin = 134.43848556206515 
             xmax = 134.5670741198845 
             text = "" 
-        intervals [53]:
+        intervals [59]:
             xmin = 134.5670741198845 
             xmax = 134.96552083333333 
             text = "the" 
-        intervals [54]:
+        intervals [60]:
             xmin = 134.96552083333333 
             xmax = 135.52077259037802 
             text = "" 
-        intervals [55]:
+        intervals [61]:
             xmin = 135.52077259037802 
             xmax = 136.8491975774181 
             text = "the years that" 
-        intervals [56]:
+        intervals [62]:
             xmin = 136.8491975774181 
             xmax = 137.19210039826967 
             text = "" 
-        intervals [57]:
+        intervals [63]:
             xmin = 137.19210039826967 
-            xmax = 137.6770029237944 
-            text = " I have" 
-        intervals [58]:
-            xmin = 137.6770029237944 
             xmax = 138.20207286822387 
-            text = "lived" 
-        intervals [59]:
+            text = " I havelived" 
+        intervals [64]:
             xmin = 138.20207286822387 
             xmax = 138.82358423101795 
             text = "" 
-        intervals [60]:
+        intervals [65]:
             xmin = 138.82358423101795 
             xmax = 139.5729375 
             text = "eh" 
-        intervals [61]:
+        intervals [66]:
             xmin = 139.5729375 
             xmax = 140.3253487900258 
             text = "" 
-        intervals [62]:
+        intervals [67]:
             xmin = 140.3253487900258 
             xmax = 141.3597664055704 
             text = "I want that " 
-        intervals [63]:
+        intervals [68]:
             xmin = 141.3597664055704 
             xmax = 141.5312178159962 
             text = "" 
-        intervals [64]:
+        intervals [69]:
             xmin = 141.5312178159962 
             xmax = 142.69387269294617 
             text = "the while I " 
-        intervals [65]:
+        intervals [70]:
             xmin = 142.69387269294617 
             xmax = 143.4118254741042 
             text = "" 
-        intervals [66]:
+        intervals [71]:
             xmin = 143.4118254741042 
-            xmax = 143.8290386665548 
-            text = "while I" 
-        intervals [67]:
-            xmin = 143.8290386665548 
+            xmax = 144.99300076085504 
+            text = "while Iit get too dark " 
+        intervals [72]:
+            xmin = 144.99300076085504 
+            xmax = 145.33086266875927 
+            text = "" 
+        intervals [73]:
+            xmin = 145.33086266875927 
             xmax = 145.65490098358558 
-            text = "it get too dark to go" 
-        intervals [68]:
+            text = "to go" 
+        intervals [74]:
             xmin = 145.65490098358558 
             xmax = 147.25655177570167 
             text = "to the farm to live there" 
-        intervals [69]:
+        intervals [75]:
             xmin = 147.25655177570167 
             xmax = 148.581336020213 
             text = "and only come
 " 
-        intervals [70]:
+        intervals [76]:
             xmin = 148.581336020213 
             xmax = 148.87066027530653 
             text = "" 
-        intervals [71]:
+        intervals [77]:
             xmin = 148.87066027530653 
             xmax = 149.59793509933107 
             text = "to the city" 
-        intervals [72]:
+        intervals [78]:
             xmin = 149.59793509933107 
             xmax = 151.26522408006443 
             text = "to see the doctor and " 
-        intervals [73]:
+        intervals [79]:
             xmin = 151.26522408006443 
             xmax = 151.65098975352248 
             text = "" 
-        intervals [74]:
+        intervals [80]:
             xmin = 151.65098975352248 
             xmax = 152.03533687640552 
             text = "and" 
-        intervals [75]:
+        intervals [81]:
             xmin = 152.03533687640552 
             xmax = 154.65488089676816 
             text = "my friends but in the country" 
-        intervals [76]:
+        intervals [82]:
             xmin = 154.65488089676816 
             xmax = 154.86383730322478 
             text = "" 
-        intervals [77]:
+        intervals [83]:
             xmin = 154.86383730322478 
             xmax = 155.6794758912983 
             text = "I" 
-        intervals [78]:
+        intervals [84]:
             xmin = 155.6794758912983 
             xmax = 156.4670808079418 
             text = "" 
-        intervals [79]:
+        intervals [85]:
             xmin = 156.4670808079418 
             xmax = 157.68169665776063 
             text = " spend good time" 
-        intervals [80]:
+        intervals [86]:
             xmin = 157.68169665776063 
             xmax = 158.0192416220367 
             text = "" 
-        intervals [81]:
+        intervals [87]:
             xmin = 158.0192416220367 
             xmax = 158.81220439525674 
             text = "eh" 
-        intervals [82]:
+        intervals [88]:
             xmin = 158.81220439525674 
             xmax = 159.41 
             text = "" 
-        intervals [83]:
+        intervals [89]:
             xmin = 159.41 
             xmax = 161.13185772911027 
             text = "When I go to the farm" 
-        intervals [84]:
+        intervals [90]:
             xmin = 161.13185772911027 
             xmax = 162.0959235887049 
             text = " I " 
-        intervals [85]:
+        intervals [91]:
             xmin = 162.0959235887049 
             xmax = 162.21915428994853 
             text = "" 
-        intervals [86]:
+        intervals [92]:
             xmin = 162.21915428994853 
             xmax = 163.0871270552299 
             text = "don't " 
-        intervals [87]:
+        intervals [93]:
             xmin = 163.0871270552299 
             xmax = 163.63898628253844 
             text = "" 
-        intervals [88]:
+        intervals [94]:
             xmin = 163.63898628253844 
             xmax = 165.15491136944155 
             text = "use the Internet" 
-        intervals [89]:
+        intervals [95]:
             xmin = 165.15491136944155 
             xmax = 165.53531918632413 
             text = "" 
-        intervals [90]:
+        intervals [96]:
             xmin = 165.53531918632413 
             xmax = 166.98846806605061 
             text = "don't use the computer" 
-        intervals [91]:
+        intervals [97]:
             xmin = 166.98846806605061 
             xmax = 167.1759930462038 
             text = "" 
-        intervals [92]:
+        intervals [98]:
             xmin = 167.1759930462038 
             xmax = 167.98429166666665 
             text = "I " 
-        intervals [93]:
+        intervals [99]:
             xmin = 167.98429166666665 
             xmax = 168.32793221000216 
             text = "" 
-        intervals [94]:
+        intervals [100]:
             xmin = 168.32793221000216 
-            xmax = 168.5154571901554 
-            text = "have " 
-        intervals [95]:
-            xmin = 168.5154571901554 
             xmax = 171.24081443232822 
-            text = "my telescope, my binoculars" 
-        intervals [96]:
+            text = "have my telescope, my binoculars" 
+        intervals [101]:
             xmin = 171.24081443232822 
             xmax = 171.42 
             text = "" 
-        intervals [97]:
+        intervals [102]:
             xmin = 171.42 
             xmax = 173.6140463319399 
             text = "and my micros microscope" 
-        intervals [98]:
+        intervals [103]:
             xmin = 173.6140463319399 
             xmax = 174.010403317103 
             text = "" 
-        intervals [99]:
+        intervals [104]:
             xmin = 174.010403317103 
             xmax = 174.81408180347464 
             text = "eh" 
-        intervals [100]:
+        intervals [105]:
             xmin = 174.81408180347464 
             xmax = 175.01750619132974 
             text = "" 
-        intervals [101]:
+        intervals [106]:
             xmin = 175.01750619132974 
-            xmax = 176.80147338875972 
+            xmax = 176.72950704122928 
             text = "and also play with the" 
-        intervals [102]:
-            xmin = 176.80147338875972 
+        intervals [107]:
+            xmin = 176.72950704122928 
             xmax = 177.08519098438387 
             text = "" 
-        intervals [103]:
+        intervals [108]:
             xmin = 177.08519098438387 
             xmax = 178.6202540555643 
             text = "with the friends and the" 
-        intervals [104]:
+        intervals [109]:
             xmin = 178.6202540555643 
             xmax = 178.81313689229333 
             text = "" 
-        intervals [105]:
+        intervals [110]:
             xmin = 178.81313689229333 
-            xmax = 179.50664359317778 
+            xmax = 179.43240230446315 
             text = "family" 
-        intervals [106]:
-            xmin = 179.50664359317778 
+        intervals [111]:
+            xmin = 179.43240230446315 
             xmax = 180.25669375321257 
             text = "" 
-        intervals [107]:
+        intervals [112]:
             xmin = 180.25669375321257 
             xmax = 182.52558413296424 
             text = "my grandsons also like to " 
-        intervals [108]:
+        intervals [113]:
             xmin = 182.52558413296424 
             xmax = 182.9274233761497 
             text = "" 
-        intervals [109]:
+        intervals [114]:
             xmin = 182.9274233761497 
             xmax = 183.24077106304546 
             text = "play " 
-        intervals [110]:
+        intervals [115]:
             xmin = 183.24077106304546 
             xmax = 184.44053129084497 
             text = "with the grandfather" 
-        intervals [111]:
+        intervals [116]:
             xmin = 184.44053129084497 
             xmax = 184.96560123527445 
             text = "" 
-        intervals [112]:
+        intervals [117]:
             xmin = 184.96560123527445 
             xmax = 185.7264168690396 
             text = "eh" 
-        intervals [113]:
+        intervals [118]:
             xmin = 185.7264168690396 
             xmax = 185.98 
             text = "" 
-        intervals [114]:
+        intervals [119]:
             xmin = 185.98 
-            xmax = 187.67911906995053 
+            xmax = 187.5957922005951 
             text = "So it's a " 
-        intervals [115]:
-            xmin = 187.67911906995053 
+        intervals [120]:
+            xmin = 187.5957922005951 
             xmax = 188.07560045656018 
             text = "" 
-        intervals [116]:
+        intervals [121]:
             xmin = 188.07560045656018 
             xmax = 189.67473420049274 
             text = "like go slowly" 
-        intervals [117]:
+        intervals [122]:
             xmin = 189.67473420049274 
             xmax = 189.93191131613167 
             text = "" 
-        intervals [118]:
+        intervals [123]:
             xmin = 189.93191131613167 
             xmax = 191.08355191645845 
             text = "but" 
-        intervals [119]:
+        intervals [124]:
             xmin = 191.08355191645845 
             xmax = 191.3943075978555 
             text = "" 
-        intervals [120]:
+        intervals [125]:
             xmin = 191.3943075978555 
             xmax = 192.119 
             text = "eh" 
-        intervals [121]:
+        intervals [126]:
             xmin = 192.119 
             xmax = 192.125 
             text = "" 
-        intervals [122]:
+        intervals [127]:
             xmin = 192.125 
             xmax = 194.42841102421994 
             text = "after some days I come to" 
-        intervals [123]:
+        intervals [128]:
             xmin = 194.42841102421994 
             xmax = 195.29624457348336 
             text = " the city and" 
-        intervals [124]:
+        intervals [129]:
             xmin = 195.29624457348336 
             xmax = 195.92304721127942 
             text = "" 
-        intervals [125]:
+        intervals [130]:
             xmin = 195.92304721127942 
             xmax = 197.85963998426953 
             text = "have the rush and also like" 
-        intervals [126]:
+        intervals [131]:
             xmin = 197.85963998426953 
             xmax = 198.47171456935249 
             text = " the city " 
-        intervals [127]:
+        intervals [132]:
             xmin = 198.47171456935249 
             xmax = 198.57753223672475 
             text = "" 
-        intervals [128]:
+        intervals [133]:
             xmin = 198.57753223672475 
             xmax = 199.34628175655774 
             text = "eh" 
-        intervals [129]:
+        intervals [134]:
             xmin = 199.34628175655774 
             xmax = 201.099361888956 
             text = "because the spectaculars " 
-        intervals [130]:
+        intervals [135]:
             xmin = 201.099361888956 
             xmax = 201.62972310838748 
             text = "eh" 
-        intervals [131]:
+        intervals [136]:
             xmin = 201.62972310838748 
             xmax = 201.94047878978452 
             text = "" 
-        intervals [132]:
+        intervals [137]:
             xmin = 201.94047878978452 
             xmax = 202.53499845463236 
             text = "movies" 
-        intervals [133]:
+        intervals [138]:
             xmin = 202.53499845463236 
             xmax = 202.99439077766033 
             text = "eh" 
-        intervals [134]:
+        intervals [139]:
             xmin = 202.99439077766033 
             xmax = 203.18053256916212 
             text = "" 
-        intervals [135]:
+        intervals [140]:
             xmin = 203.18053256916212 
             xmax = 203.87631714770066 
             text = "theater" 
-        intervals [136]:
+        intervals [141]:
             xmin = 203.87631714770066 
             xmax = 204.38925321072085 
             text = "" 
-        intervals [137]:
+        intervals [142]:
             xmin = 204.38925321072085 
             xmax = 204.65577159576137 
             text = "eh" 
-        intervals [138]:
+        intervals [143]:
             xmin = 204.65577159576137 
             xmax = 205.45865209150546 
             text = "music" 
-        intervals [139]:
+        intervals [144]:
             xmin = 205.45865209150546 
             xmax = 206.1249567990083 
             text = "" 
-        intervals [140]:
+        intervals [145]:
             xmin = 206.1249567990083 
             xmax = 207.35779362509246 
             text = " and sports" 
-        intervals [141]:
+        intervals [146]:
             xmin = 207.35779362509246 
             xmax = 208.3495531399697 
             text = "" 
-        intervals [142]:
+        intervals [147]:
             xmin = 208.3495531399697 
             xmax = 208.81363957127607 
             text = " That" 
-        intervals [143]:
+        intervals [148]:
             xmin = 208.81363957127607 
             xmax = 257.48 
             text = "" 
-        intervals [144]:
+        intervals [149]:
             xmin = 257.48 
             xmax = 258.3678213348191 
             text = "I like it" 
-        intervals [145]:
+        intervals [150]:
             xmin = 258.3678213348191 
             xmax = 259.0268376936438 
             text = "eh" 
-        intervals [146]:
+        intervals [151]:
             xmin = 259.0268376936438 
             xmax = 259.7555061879541 
             text = "" 
-        intervals [147]:
+        intervals [152]:
             xmin = 259.7555061879541 
-            xmax = 261.2018785170467 
-            text = "live in towns" 
-        intervals [148]:
-            xmin = 261.2018785170467 
+            xmax = 260.2339136641338 
+            text = "live " 
+        intervals [153]:
+            xmin = 260.2339136641338 
+            xmax = 260.5074209229134 
+            text = "" 
+        intervals [154]:
+            xmin = 260.5074209229134 
+            xmax = 261.0705241027538 
+            text = "in towns" 
+        intervals [155]:
+            xmin = 261.0705241027538 
             xmax = 262.06 
             text = "" 
-        intervals [149]:
+        intervals [156]:
             xmin = 262.06 
             xmax = 262.4181119597557 
             text = "eh" 
-        intervals [150]:
+        intervals [157]:
             xmin = 262.4181119597557 
             xmax = 265.5144554547868 
             text = " with all houses and the" 
-        intervals [151]:
+        intervals [158]:
             xmin = 265.5144554547868 
             xmax = 266.89660828932034 
             text = "" 
-        intervals [152]:
+        intervals [159]:
             xmin = 266.89660828932034 
             xmax = 267.21182817261683 
             text = "is" 
-        intervals [153]:
+        intervals [160]:
             xmin = 267.21182817261683 
             xmax = 267.4864183221271 
             text = "eh" 
-        intervals [154]:
+        intervals [161]:
             xmin = 267.4864183221271 
             xmax = 270.17472401739496 
             text = "nice to to see that things " 
-        intervals [155]:
+        intervals [162]:
             xmin = 270.17472401739496 
             xmax = 270.2095500851377 
             text = "" 
-        intervals [156]:
+        intervals [163]:
             xmin = 270.2095500851377 
             xmax = 272.3737666101414 
             text = "and the people is nice" 
-        intervals [157]:
+        intervals [164]:
             xmin = 272.3737666101414 
             xmax = 272.7381008572965 
             text = "" 
-        intervals [158]:
+        intervals [165]:
             xmin = 272.7381008572965 
             xmax = 274.48181194183576 
             text = "the food is good" 
-        intervals [159]:
+        intervals [166]:
             xmin = 274.48181194183576 
             xmax = 275.27 
             text = "" 
-        intervals [160]:
+        intervals [167]:
             xmin = 275.27 
             xmax = 276.3139399885526 
             text = "and the time" 
-        intervals [161]:
+        intervals [168]:
             xmin = 276.3139399885526 
             xmax = 276.65 
             text = "" 
-        intervals [162]:
+        intervals [169]:
             xmin = 276.65 
             xmax = 277.1416671861319 
             text = "eh" 
-        intervals [163]:
+        intervals [170]:
             xmin = 277.1416671861319 
             xmax = 277.76 
             text = "" 
-        intervals [164]:
+        intervals [171]:
             xmin = 277.76 
-            xmax = 278.84258939012483 
+            xmax = 278.73145710385677 
             text = "go slowly" 
-        intervals [165]:
-            xmin = 278.84258939012483 
+        intervals [172]:
+            xmin = 278.73145710385677 
             xmax = 279.45 
             text = "" 
-        intervals [166]:
+        intervals [173]:
             xmin = 279.45 
+            xmax = 280.2277026960041 
+            text = "in the city " 
+        intervals [174]:
+            xmin = 280.2277026960041 
+            xmax = 280.51729861706485 
+            text = "" 
+        intervals [175]:
+            xmin = 280.51729861706485 
             xmax = 281.57028881505846 
-            text = "in the city go faster five " 
-        intervals [167]:
+            text = "go faster five " 
+        intervals [176]:
             xmin = 281.57028881505846 
             xmax = 283.5150639800921 
             text = "minutes is different here" 
-        intervals [168]:
+        intervals [177]:
             xmin = 283.5150639800921 
             xmax = 283.84725108779236 
             text = "" 
-        intervals [169]:
+        intervals [178]:
             xmin = 283.84725108779236 
             xmax = 285.43958947004603 
             text = "in the city than in the " 
-        intervals [170]:
+        intervals [179]:
             xmin = 285.43958947004603 
             xmax = 285.8 
             text = "farm" 
-        intervals [171]:
+        intervals [180]:
             xmin = 285.8 
             xmax = 286.56732143332863 
             text = "" 
-        intervals [172]:
+        intervals [181]:
             xmin = 286.56732143332863 
-            xmax = 288.6378666735843 
+            xmax = 288.60024564766314 
             text = "and you sleep early" 
-        intervals [173]:
-            xmin = 288.6378666735843 
+        intervals [182]:
+            xmin = 288.60024564766314 
             xmax = 289.22 
             text = "" 
-        intervals [174]:
+        intervals [183]:
             xmin = 289.22 
             xmax = 291.4382988148874 
             text = "you wake very early also" 
-        intervals [175]:
+        intervals [184]:
             xmin = 291.4382988148874 
             xmax = 292.1440572027326 
             text = "" 
-        intervals [176]:
+        intervals [185]:
             xmin = 292.1440572027326 
-            xmax = 292.8419180217319 
+            xmax = 292.7350318539197 
             text = "eh" 
-        intervals [177]:
-            xmin = 292.8419180217319 
+        intervals [186]:
+            xmin = 292.7350318539197 
             xmax = 293.74 
             text = "" 
-        intervals [178]:
+        intervals [187]:
             xmin = 293.74 
             xmax = 294.120882323004 
             text = "and " 
-        intervals [179]:
+        intervals [188]:
             xmin = 294.120882323004 
-            xmax = 294.6459522674334 
+            xmax = 294.52087336712776 
             text = "eh" 
-        intervals [180]:
-            xmin = 294.6459522674334 
+        intervals [189]:
+            xmin = 294.52087336712776 
             xmax = 294.80259088496143 
             text = "" 
-        intervals [181]:
+        intervals [190]:
             xmin = 294.80259088496143 
+            xmax = 295.94311399039225 
+            text = "you can change" 
+        intervals [191]:
+            xmin = 295.94311399039225 
+            xmax = 296.26488723601534 
+            text = "" 
+        intervals [192]:
+            xmin = 296.26488723601534 
+            xmax = 296.92452238954263 
+            text = " the " 
+        intervals [193]:
+            xmin = 296.92452238954263 
+            xmax = 297.16585232375996 
+            text = "" 
+        intervals [194]:
+            xmin = 297.16585232375996 
             xmax = 298.12135327988176 
-            text = "you can change the the places" 
-        intervals [182]:
+            text = "the places" 
+        intervals [195]:
             xmin = 298.12135327988176 
             xmax = 408.2948915954959 
             text = "" 
-        intervals [183]:
+        intervals [196]:
             xmin = 408.2948915954959 
             xmax = 409.21520148290676 
             text = "I prefer" 
-        intervals [184]:
+        intervals [197]:
             xmin = 409.21520148290676 
             xmax = 409.3705793236052 
             text = "" 
-        intervals [185]:
+        intervals [198]:
             xmin = 409.3705793236052 
             xmax = 409.9653014035202 
             text = "eh" 
-        intervals [186]:
+        intervals [199]:
             xmin = 409.9653014035202 
-            xmax = 413.2652185681427 
-            text = "to go to far towns that " 
-        intervals [187]:
-            xmin = 413.2652185681427 
+            xmax = 410.9070983688424 
+            text = "to go to " 
+        intervals [200]:
+            xmin = 410.9070983688424 
+            xmax = 411.1484283030597 
+            text = "" 
+        intervals [201]:
+            xmin = 411.1484283030597 
+            xmax = 412.41943262327084 
+            text = "far towns " 
+        intervals [202]:
+            xmin = 412.41943262327084 
+            xmax = 412.644673895207 
+            text = "" 
+        intervals [203]:
+            xmin = 412.644673895207 
+            xmax = 413.1755997504851 
+            text = "that " 
+        intervals [204]:
+            xmin = 413.1755997504851 
             xmax = 413.5170378272058 
             text = "" 
-        intervals [188]:
+        intervals [205]:
             xmin = 413.5170378272058 
             xmax = 416.1206077989985 
             text = "in Colombia are very different in " 
-        intervals [189]:
+        intervals [206]:
             xmin = 416.1206077989985 
             xmax = 418.5418613654776 
             text = "different regions you go to the " 
-        intervals [190]:
+        intervals [207]:
             xmin = 418.5418613654776 
-            xmax = 419.35089770842495 
+            xmax = 419.21528644844074 
             text = "south" 
-        intervals [191]:
-            xmin = 419.35089770842495 
+        intervals [208]:
+            xmin = 419.21528644844074 
             xmax = 419.49555983597185 
             text = "" 
-        intervals [192]:
+        intervals [209]:
             xmin = 419.49555983597185 
             xmax = 419.6670112463978 
             text = "is " 
-        intervals [193]:
+        intervals [210]:
             xmin = 419.6670112463978 
             xmax = 420.52426829852743 
             text = "eh" 
-        intervals [194]:
+        intervals [211]:
             xmin = 420.52426829852743 
             xmax = 420.7117932786808 
             text = "" 
-        intervals [195]:
+        intervals [212]:
             xmin = 420.7117932786808 
+            xmax = 421.74120642658187 
+            text = "people different " 
+        intervals [213]:
+            xmin = 421.74120642658187 
+            xmax = 422.11124565904845 
+            text = "" 
+        intervals [214]:
+            xmin = 422.11124565904845 
             xmax = 423.6420183395725 
-            text = "people different and the also the " 
-        intervals [196]:
+            text = "and the also the " 
+        intervals [215]:
             xmin = 423.6420183395725 
             xmax = 423.9206268815146 
             text = "" 
-        intervals [197]:
+        intervals [216]:
             xmin = 423.9206268815146 
             xmax = 426.9152706227628 
             text = "the food is different the houses" 
-        intervals [198]:
+        intervals [217]:
             xmin = 426.9152706227628 
+            xmax = 427.6354920608228 
+            text = " are " 
+        intervals [218]:
+            xmin = 427.6354920608228 
+            xmax = 427.9089993196024 
+            text = "" 
+        intervals [219]:
+            xmin = 427.9089993196024 
             xmax = 429.76515271530667 
-            text = " are more or less the same" 
-        intervals [199]:
+            text = "more or less the same" 
+        intervals [220]:
             xmin = 429.76515271530667 
             xmax = 430.00625626121814 
             text = "" 
-        intervals [200]:
+        intervals [221]:
             xmin = 430.00625626121814 
-            xmax = 432.18 
+            xmax = 432.1081401749836 
             text = " but if you go to the" 
-        intervals [201]:
-            xmin = 432.18 
-            xmax = 432.5 
+        intervals [222]:
+            xmin = 432.1081401749836 
+            xmax = 432.5586227188559 
             text = "" 
-        intervals [202]:
-            xmin = 432.5 
-            xmax = 433.17250069462847 
+        intervals [223]:
+            xmin = 432.5586227188559 
+            xmax = 433.08954857413397 
             text = "east" 
-        intervals [203]:
-            xmin = 433.17250069462847 
+        intervals [224]:
+            xmin = 433.08954857413397 
             xmax = 433.81521956112147 
             text = "" 
-        intervals [204]:
+        intervals [225]:
             xmin = 433.81521956112147 
             xmax = 434.19447916666667 
             text = "eh" 
-        intervals [205]:
+        intervals [226]:
             xmin = 434.19447916666667 
-            xmax = 435.12253656561916 
+            xmax = 435.0730830676857 
             text = "is flat " 
-        intervals [206]:
-            xmin = 435.12253656561916 
+        intervals [227]:
+            xmin = 435.0730830676857 
             xmax = 435.6097531899668 
             text = "" 
-        intervals [207]:
+        intervals [228]:
             xmin = 435.6097531899668 
             xmax = 436.4402209592174 
             text = "eh" 
-        intervals [208]:
+        intervals [229]:
             xmin = 436.4402209592174 
             xmax = 437.52250798753107 
             text = "" 
-        intervals [209]:
+        intervals [230]:
             xmin = 437.52250798753107 
             xmax = 441.2239658318671 
             text = "the the animals are also different " 
-        intervals [210]:
+        intervals [231]:
             xmin = 441.2239658318671 
             xmax = 441.7008150671142 
             text = "" 
-        intervals [211]:
+        intervals [232]:
             xmin = 441.7008150671142 
             xmax = 442.3812628522421 
             text = "and" 
-        intervals [212]:
+        intervals [233]:
             xmin = 442.3812628522421 
-            xmax = 444.09036933934686 
+            xmax = 443.9701133091638 
             text = "the spaces are bigger" 
-        intervals [213]:
-            xmin = 444.09036933934686 
+        intervals [234]:
+            xmin = 443.9701133091638 
             xmax = 444.5350714351391 
             text = "" 
-        intervals [214]:
+        intervals [235]:
             xmin = 444.5350714351391 
             xmax = 445.872 
             text = "and if you go to the north" 
