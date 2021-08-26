@@ -27,15 +27,15 @@ item []:
         intervals [4]:
             xmin = 4.7231587740839815 
             xmax = 6.5323305949312696 
-            text = "Would you remind me your name, please?" 
+            text = "Would you remind me " 
         intervals [5]:
             xmin = 6.5323305949312696 
-            xmax = 8.067934670740255 
-            text = "" 
+            xmax = 7.603294136597938 
+            text = "your name, please?" 
         intervals [6]:
-            xmin = 8.067934670740255 
+            xmin = 7.603294136597938 
             xmax = 8.754610517073663 
-            text = "Jorge Camargo" 
+            text = "" 
         intervals [7]:
             xmin = 8.754610517073663 
             xmax = 12.121537247482628 
@@ -437,7 +437,7 @@ item []:
         intervals [3]:
             xmin = 2.6881644652061847 
             xmax = 5.233267557989689 
-            text = "fine, I think that s a.." 
+            text = "fine, I think that is a.." 
         intervals [4]:
             xmin = 5.233267557989689 
             xmax = 6.45 
